@@ -1,42 +1,4457 @@
 [
-  { "category": "Old Testament", "question": "Who was the first man created by God?", "options": ["Adam", "Cain", "Noah", "Abel"], "answer": "Adam" },
-  { "category": "Old Testament", "question": "How many days and nights did it rain during the flood?", "options": ["7", "40", "70", "100"], "answer": "40" },
-  { "category": "Old Testament", "question": "What did God ask Abraham to sacrifice on Mount Moriah?", "options": ["A lamb", "His son Isaac", "A bull", "His flock"], "answer": "His son Isaac" },
-  { "category": "Old Testament", "question": "Who led the Israelites out of Egypt?", "options": ["Joshua", "Moses", "Aaron", "Joseph"], "answer": "Moses" },
-  { "category": "Old Testament", "question": "How many plagues did God send on Egypt?", "options": ["7", "9", "10", "12"], "answer": "10" },
-  { "category": "Old Testament", "question": "Who was sold into slavery by his own brothers?", "options": ["Benjamin", "Joseph", "Reuben", "Judah"], "answer": "Joseph" },
-  { "category": "Old Testament", "question": "What did Samson lose his strength after cutting?", "options": ["His beard", "His hair", "His robe", "His sandals"], "answer": "His hair" },
-  { "category": "Old Testament", "question": "Who killed the giant Goliath?", "options": ["Saul", "Jonathan", "David", "Samuel"], "answer": "David" },
-  { "category": "Old Testament", "question": "How many commandments did God give Moses on Mount Sinai?", "options": ["7", "10", "12", "15"], "answer": "10" },
-  { "category": "Old Testament", "question": "Which king was known for his great wisdom?", "options": ["Saul", "David", "Solomon", "Rehoboam"], "answer": "Solomon" },
-  { "category": "Old Testament", "question": "Who was thrown into the lions' den?", "options": ["Daniel", "Ezekiel", "Jeremiah", "Elijah"], "answer": "Daniel" },
-  { "category": "Old Testament", "question": "What did God turn Lot's wife into?", "options": ["A tree", "A pillar of salt", "Stone", "Ash"], "answer": "A pillar of salt" },
-  { "category": "Old Testament", "question": "Who built the ark?", "options": ["Abraham", "Noah", "Moses", "Job"], "answer": "Noah" },
-  { "category": "Old Testament", "question": "Which prophet was swallowed by a great fish?", "options": ["Jonah", "Elijah", "Isaiah", "Amos"], "answer": "Jonah" },
-  { "category": "Old Testament", "question": "Who was known as the strongest man because of his hair?", "options": ["David", "Samson", "Goliath", "Saul"], "answer": "Samson" },
-  { "category": "New Testament", "question": "In which town was Jesus born?", "options": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum"], "answer": "Bethlehem" },
-  { "category": "New Testament", "question": "How many disciples did Jesus choose?", "options": ["10", "12", "7", "14"], "answer": "12" },
-  { "category": "New Testament", "question": "Who baptized Jesus?", "options": ["Peter", "John the Baptist", "Andrew", "James"], "answer": "John the Baptist" },
-  { "category": "New Testament", "question": "What was Jesus' first recorded miracle?", "options": ["Healing a blind man", "Turning water into wine", "Walking on water", "Feeding 5000"], "answer": "Turning water into wine" },
-  { "category": "New Testament", "question": "Who betrayed Jesus for thirty pieces of silver?", "options": ["Peter", "Thomas", "Judas Iscariot", "Matthew"], "answer": "Judas Iscariot" },
-  { "category": "New Testament", "question": "How many loaves and fishes fed the 5000?", "options": ["5 loaves, 2 fish", "2 loaves, 5 fish", "7 loaves, 2 fish", "3 loaves, 5 fish"], "answer": "5 loaves, 2 fish" },
-  { "category": "New Testament", "question": "Who denied knowing Jesus three times?", "options": ["Peter", "John", "Thomas", "Andrew"], "answer": "Peter" },
-  { "category": "New Testament", "question": "On which day did Jesus rise from the dead?", "options": ["Friday", "Saturday", "Sunday", "Monday"], "answer": "Sunday" },
-  { "category": "New Testament", "question": "Who was struck blind on the road to Damascus?", "options": ["Peter", "Saul (Paul)", "Stephen", "Barnabas"], "answer": "Saul (Paul)" },
-  { "category": "New Testament", "question": "Which disciple doubted Jesus' resurrection until he touched His wounds?", "options": ["Thomas", "Philip", "Bartholomew", "James"], "answer": "Thomas" },
-  { "category": "New Testament", "question": "Who was the first Christian martyr?", "options": ["Peter", "Paul", "Stephen", "James"], "answer": "Stephen" },
-  { "category": "Parables", "question": "In the Parable of the Sower, what caused seeds to be eaten before they could grow?", "options": ["Birds", "Thorns", "Rocky soil", "Drought"], "answer": "Birds" },
-  { "category": "Parables", "question": "Who stopped to help the injured traveler in the Parable of the Good Samaritan?", "options": ["A priest", "A Levite", "A Samaritan", "A soldier"], "answer": "A Samaritan" },
-  { "category": "Parables", "question": "In the Parable of the Prodigal Son, what did the father give the returning son?", "options": ["A field", "A robe and a ring", "Silver coins", "A house"], "answer": "A robe and a ring" },
-  { "category": "Parables", "question": "In the Parable of the Talents, how many talents did the faithful servant double from five?", "options": ["Five", "Ten", "Two", "Twenty"], "answer": "Five" },
-  { "category": "Parables", "question": "What did the shepherd leave behind to search for one lost sheep?", "options": ["1 sheep", "10 sheep", "99 sheep", "50 sheep"], "answer": "99 sheep" },
-  { "category": "Prophets", "question": "Which prophet challenged the prophets of Baal at Mount Carmel?", "options": ["Elisha", "Elijah", "Isaiah", "Jeremiah"], "answer": "Elijah" },
-  { "category": "Prophets", "question": "Who succeeded Elijah as prophet?", "options": ["Elisha", "Amos", "Hosea", "Micah"], "answer": "Elisha" },
-  { "category": "Prophets", "question": "Which prophet foretold the virgin birth of the Messiah?", "options": ["Isaiah", "Ezekiel", "Daniel", "Joel"], "answer": "Isaiah" },
-  { "category": "Prophets", "question": "Who wept over Jerusalem and is called the 'weeping prophet'?", "options": ["Jeremiah", "Ezekiel", "Amos", "Obadiah"], "answer": "Jeremiah" },
-  { "category": "General", "question": "How many books are in the New Testament?", "options": ["27", "39", "66", "12"], "answer": "27" },
-  { "category": "General", "question": "How many books are in the Old Testament?", "options": ["27", "39", "66", "24"], "answer": "39" },
-  { "category": "General", "question": "What is the first book of the Bible?", "options": ["Exodus", "Genesis", "Leviticus", "Numbers"], "answer": "Genesis" },
-  { "category": "General", "question": "What is the last book of the Bible?", "options": ["Jude", "Revelation", "Acts", "Malachi"], "answer": "Revelation" },
-  { "category": "General", "question": "Which language was most of the Old Testament originally written in?", "options": ["Greek", "Aramaic", "Hebrew", "Latin"], "answer": "Hebrew" }
+  {
+    "category": "Old Testament",
+    "question": "Who was the first man created by God?",
+    "options": [
+      "Adam",
+      "Cain",
+      "Noah",
+      "Abel"
+    ],
+    "answer": "Adam"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was the first woman created by God?",
+    "options": [
+      "Eve",
+      "Sarah",
+      "Rachel",
+      "Rebekah"
+    ],
+    "answer": "Eve"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did God create on the first day of creation?",
+    "options": [
+      "Light",
+      "Animals",
+      "Stars",
+      "Plants"
+    ],
+    "answer": "Light"
+  },
+  {
+    "category": "Old Testament",
+    "question": "On which day did God rest after creation?",
+    "options": [
+      "5th",
+      "6th",
+      "7th",
+      "8th"
+    ],
+    "answer": "7th"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What tree were Adam and Eve forbidden to eat from?",
+    "options": [
+      "Tree of Life",
+      "Tree of Knowledge of Good and Evil",
+      "Fig Tree",
+      "Olive Tree"
+    ],
+    "answer": "Tree of Knowledge of Good and Evil"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Adam and Eve's first son?",
+    "options": [
+      "Seth",
+      "Cain",
+      "Abel",
+      "Enoch"
+    ],
+    "answer": "Cain"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who did Cain kill?",
+    "options": [
+      "Seth",
+      "Abel",
+      "Enoch",
+      "Lamech"
+    ],
+    "answer": "Abel"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many years did Noah build the ark, according to Jewish tradition based on Genesis 6?",
+    "options": [
+      "40",
+      "100",
+      "120",
+      "500"
+    ],
+    "answer": "120"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many days and nights did it rain during the flood?",
+    "options": [
+      "7",
+      "40",
+      "70",
+      "100"
+    ],
+    "answer": "40"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many of each unclean animal did Noah take into the ark?",
+    "options": [
+      "1 pair",
+      "7 pairs",
+      "2 pairs",
+      "3 pairs"
+    ],
+    "answer": "1 pair"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What was the sign of God's covenant with Noah after the flood?",
+    "options": [
+      "A dove",
+      "A rainbow",
+      "An olive branch",
+      "A star"
+    ],
+    "answer": "A rainbow"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What bird did Noah send out that returned with an olive leaf?",
+    "options": [
+      "Raven",
+      "Dove",
+      "Sparrow",
+      "Eagle"
+    ],
+    "answer": "Dove"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What structure did people build in an attempt to reach the heavens?",
+    "options": [
+      "The Tower of Babel",
+      "The Ark",
+      "The Ziggurat of Ur",
+      "Solomon's Temple"
+    ],
+    "answer": "The Tower of Babel"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did God do to the language of the builders at Babel?",
+    "options": [
+      "Erased it",
+      "Confused it into many languages",
+      "Made it silent",
+      "Doubled it"
+    ],
+    "answer": "Confused it into many languages"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What was Abraham's name before God changed it?",
+    "options": [
+      "Abram",
+      "Terah",
+      "Nahor",
+      "Haran"
+    ],
+    "answer": "Abram"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What was Sarah's name before God changed it?",
+    "options": [
+      "Sarai",
+      "Milcah",
+      "Hagar",
+      "Rebekah"
+    ],
+    "answer": "Sarai"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Abraham's nephew who traveled with him?",
+    "options": [
+      "Lot",
+      "Ishmael",
+      "Isaac",
+      "Nahor"
+    ],
+    "answer": "Lot"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What two cities did God destroy for their wickedness in Abraham's time?",
+    "options": [
+      "Sodom and Gomorrah",
+      "Nineveh and Tyre",
+      "Jericho and Ai",
+      "Ur and Haran"
+    ],
+    "answer": "Sodom and Gomorrah"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What happened to Lot's wife when she looked back at the destroyed cities?",
+    "options": [
+      "She turned to stone",
+      "She turned into a pillar of salt",
+      "She was blinded",
+      "She fled safely"
+    ],
+    "answer": "She turned into a pillar of salt"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Abraham's son through his wife Sarah?",
+    "options": [
+      "Ishmael",
+      "Isaac",
+      "Esau",
+      "Jacob"
+    ],
+    "answer": "Isaac"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Abraham's son through Hagar?",
+    "options": [
+      "Ishmael",
+      "Isaac",
+      "Midian",
+      "Lot"
+    ],
+    "answer": "Ishmael"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What mountain did God ask Abraham to sacrifice Isaac on?",
+    "options": [
+      "Mount Sinai",
+      "Mount Moriah",
+      "Mount Carmel",
+      "Mount Nebo"
+    ],
+    "answer": "Mount Moriah"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who did Isaac marry?",
+    "options": [
+      "Rebekah",
+      "Rachel",
+      "Leah",
+      "Zipporah"
+    ],
+    "answer": "Rebekah"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What were the names of Isaac's twin sons?",
+    "options": [
+      "Jacob and Esau",
+      "Cain and Abel",
+      "Moses and Aaron",
+      "Reuben and Simeon"
+    ],
+    "answer": "Jacob and Esau"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did Esau sell to Jacob for a bowl of stew?",
+    "options": [
+      "His tent",
+      "His birthright",
+      "His flock",
+      "His inheritance land"
+    ],
+    "answer": "His birthright"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What was Jacob's name changed to after wrestling with an angel?",
+    "options": [
+      "Israel",
+      "Judah",
+      "Levi",
+      "Benjamin"
+    ],
+    "answer": "Israel"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many sons did Jacob have?",
+    "options": [
+      "10",
+      "12",
+      "7",
+      "14"
+    ],
+    "answer": "12"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did Joseph's brothers do to him out of jealousy?",
+    "options": [
+      "Sold him into slavery",
+      "Sent him away",
+      "Killed him",
+      "Made him king"
+    ],
+    "answer": "Sold him into slavery"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What special gift did Jacob give Joseph that made his brothers jealous?",
+    "options": [
+      "A coat of many colors",
+      "A golden ring",
+      "A sword",
+      "A staff"
+    ],
+    "answer": "A coat of many colors"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who bought Joseph as a slave in Egypt?",
+    "options": [
+      "Pharaoh",
+      "Potiphar",
+      "Pontius Pilate",
+      "Nebuchadnezzar"
+    ],
+    "answer": "Potiphar"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did Joseph interpret for Pharaoh that saved Egypt from famine?",
+    "options": [
+      "His dreams",
+      "His writings",
+      "His visions of angels",
+      "His prayers"
+    ],
+    "answer": "His dreams"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Moses' sister who watched over him as a baby?",
+    "options": [
+      "Miriam",
+      "Zipporah",
+      "Deborah",
+      "Rebekah"
+    ],
+    "answer": "Miriam"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Where was the baby Moses hidden to save him from Pharaoh's decree?",
+    "options": [
+      "In a cave",
+      "In a basket on the Nile",
+      "In the temple",
+      "In a tent"
+    ],
+    "answer": "In a basket on the Nile"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How did God first appear to Moses to call him?",
+    "options": [
+      "In a dream",
+      "As a burning bush",
+      "As a dove",
+      "As a pillar of cloud"
+    ],
+    "answer": "As a burning bush"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did Moses' staff turn into as a sign before Pharaoh?",
+    "options": [
+      "A serpent",
+      "A tree",
+      "A river",
+      "A lamb"
+    ],
+    "answer": "A serpent"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many plagues did God send upon Egypt?",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What sea did the Israelites cross as they fled Egypt?",
+    "options": [
+      "The Dead Sea",
+      "The Red Sea",
+      "The Sea of Galilee",
+      "The Mediterranean Sea"
+    ],
+    "answer": "The Red Sea"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What food did God provide for the Israelites each morning in the wilderness?",
+    "options": [
+      "Manna",
+      "Bread",
+      "Honey",
+      "Grapes"
+    ],
+    "answer": "Manna"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Where did Moses receive the Ten Commandments?",
+    "options": [
+      "Mount Sinai",
+      "Mount Nebo",
+      "Mount Carmel",
+      "Mount Ararat"
+    ],
+    "answer": "Mount Sinai"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many commandments did God give Moses?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did Aaron make while Moses was on the mountain, which angered God?",
+    "options": [
+      "A golden calf",
+      "An altar",
+      "A tent",
+      "A statue of Pharaoh"
+    ],
+    "answer": "A golden calf"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who succeeded Moses as leader of the Israelites?",
+    "options": [
+      "Aaron",
+      "Joshua",
+      "Caleb",
+      "Samuel"
+    ],
+    "answer": "Joshua"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Whose walls fell after the Israelites marched around them for seven days?",
+    "options": [
+      "Jericho",
+      "Ai",
+      "Bethel",
+      "Hebron"
+    ],
+    "answer": "Jericho"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Which judge was betrayed by Delilah, losing his strength with his hair?",
+    "options": [
+      "Gideon",
+      "Samson",
+      "Ehud",
+      "Barak"
+    ],
+    "answer": "Samson"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was the only female judge of Israel mentioned in the Bible?",
+    "options": [
+      "Deborah",
+      "Ruth",
+      "Miriam",
+      "Huldah"
+    ],
+    "answer": "Deborah"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Ruth's Moabite mother-in-law?",
+    "options": [
+      "Naomi",
+      "Orpah",
+      "Rachel",
+      "Leah"
+    ],
+    "answer": "Naomi"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was the first king of Israel?",
+    "options": [
+      "David",
+      "Saul",
+      "Solomon",
+      "Samuel"
+    ],
+    "answer": "Saul"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Which prophet anointed both Saul and David as king?",
+    "options": [
+      "Nathan",
+      "Samuel",
+      "Elijah",
+      "Gad"
+    ],
+    "answer": "Samuel"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What weapon did young David use to defeat the giant Goliath?",
+    "options": [
+      "A sword",
+      "A sling and stone",
+      "A spear",
+      "A bow and arrow"
+    ],
+    "answer": "A sling and stone"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was David's close friend, the son of King Saul?",
+    "options": [
+      "Jonathan",
+      "Absalom",
+      "Solomon",
+      "Joab"
+    ],
+    "answer": "Jonathan"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Which of David's sons became king known for his wisdom?",
+    "options": [
+      "Absalom",
+      "Solomon",
+      "Amnon",
+      "Adonijah"
+    ],
+    "answer": "Solomon"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did Solomon ask God for when given the chance to ask for anything?",
+    "options": [
+      "Riches",
+      "Long life",
+      "Wisdom",
+      "Victory over enemies"
+    ],
+    "answer": "Wisdom"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did Solomon build in Jerusalem that became central to Israelite worship?",
+    "options": [
+      "The Tabernacle",
+      "The Temple",
+      "The Ark",
+      "The Tower"
+    ],
+    "answer": "The Temple"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Which prophet was thrown into a den of lions?",
+    "options": [
+      "Daniel",
+      "Ezekiel",
+      "Elijah",
+      "Jeremiah"
+    ],
+    "answer": "Daniel"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What three men were thrown into a fiery furnace for refusing to worship an idol?",
+    "options": [
+      "Shadrach, Meshach, and Abednego",
+      "Peter, James, and John",
+      "Gad, Nathan, and Asaph",
+      "Ham, Shem, and Japheth"
+    ],
+    "answer": "Shadrach, Meshach, and Abednego"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was swallowed by a great fish after fleeing from God's call?",
+    "options": [
+      "Jonah",
+      "Elijah",
+      "Amos",
+      "Micah"
+    ],
+    "answer": "Jonah"
+  },
+  {
+    "category": "Old Testament",
+    "question": "To which city was Jonah originally sent to preach repentance?",
+    "options": [
+      "Nineveh",
+      "Babylon",
+      "Tyre",
+      "Damascus"
+    ],
+    "answer": "Nineveh"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Which book tells the story of a righteous man who suffered great loss and questioned God?",
+    "options": [
+      "Job",
+      "Ecclesiastes",
+      "Proverbs",
+      "Lamentations"
+    ],
+    "answer": "Job"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did God restore to Job after his suffering?",
+    "options": [
+      "Nothing",
+      "Double what he lost",
+      "Half of what he lost",
+      "Only his health"
+    ],
+    "answer": "Double what he lost"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who led the Israelites into the Promised Land after Moses?",
+    "options": [
+      "Caleb",
+      "Joshua",
+      "Aaron",
+      "Eleazar"
+    ],
+    "answer": "Joshua"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who was Jesus' mother?",
+    "options": [
+      "Mary",
+      "Martha",
+      "Elizabeth",
+      "Anna"
+    ],
+    "answer": "Mary"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who was Jesus' earthly (adoptive) father?",
+    "options": [
+      "Joseph",
+      "Zechariah",
+      "Simeon",
+      "Joachim"
+    ],
+    "answer": "Joseph"
+  },
+  {
+    "category": "New Testament",
+    "question": "In which town was Jesus born?",
+    "options": [
+      "Nazareth",
+      "Bethlehem",
+      "Jerusalem",
+      "Capernaum"
+    ],
+    "answer": "Bethlehem"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who visited the infant Jesus bringing gifts from the East?",
+    "options": [
+      "Shepherds",
+      "Wise men (Magi)",
+      "Roman soldiers",
+      "Pharisees"
+    ],
+    "answer": "Wise men (Magi)"
+  },
+  {
+    "category": "New Testament",
+    "question": "What three gifts did the wise men bring to Jesus?",
+    "options": [
+      "Gold, frankincense, and myrrh",
+      "Silver, oil, and wine",
+      "Wheat, wine, and oil",
+      "Gold, silver, and bronze"
+    ],
+    "answer": "Gold, frankincense, and myrrh"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who first told the shepherds of Jesus' birth?",
+    "options": [
+      "An angel",
+      "A star",
+      "A priest",
+      "A dream"
+    ],
+    "answer": "An angel"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who baptized Jesus?",
+    "options": [
+      "Peter",
+      "John the Baptist",
+      "Andrew",
+      "Philip"
+    ],
+    "answer": "John the Baptist"
+  },
+  {
+    "category": "New Testament",
+    "question": "In which river was Jesus baptized?",
+    "options": [
+      "The Nile",
+      "The Jordan",
+      "The Euphrates",
+      "The Tigris"
+    ],
+    "answer": "The Jordan"
+  },
+  {
+    "category": "New Testament",
+    "question": "How many days did Jesus fast in the wilderness?",
+    "options": [
+      "7",
+      "40",
+      "70",
+      "100"
+    ],
+    "answer": "40"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who tempted Jesus during His forty days in the wilderness?",
+    "options": [
+      "A Pharisee",
+      "Satan",
+      "Herod",
+      "A Roman soldier"
+    ],
+    "answer": "Satan"
+  },
+  {
+    "category": "New Testament",
+    "question": "How many disciples did Jesus choose as His closest followers?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12"
+  },
+  {
+    "category": "New Testament",
+    "question": "What was Peter's name before Jesus renamed him?",
+    "options": [
+      "Simon",
+      "Levi",
+      "Nathanael",
+      "Thomas"
+    ],
+    "answer": "Simon"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which disciple was a tax collector before following Jesus?",
+    "options": [
+      "Matthew",
+      "James",
+      "Philip",
+      "Andrew"
+    ],
+    "answer": "Matthew"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which two disciples were sons of Zebedee?",
+    "options": [
+      "James and John",
+      "Peter and Andrew",
+      "Philip and Bartholomew",
+      "Thomas and Matthew"
+    ],
+    "answer": "James and John"
+  },
+  {
+    "category": "New Testament",
+    "question": "What was Jesus' first recorded miracle?",
+    "options": [
+      "Healing a blind man",
+      "Turning water into wine",
+      "Walking on water",
+      "Feeding the 5,000"
+    ],
+    "answer": "Turning water into wine"
+  },
+  {
+    "category": "New Testament",
+    "question": "In which town did Jesus turn water into wine at a wedding?",
+    "options": [
+      "Cana",
+      "Nazareth",
+      "Capernaum",
+      "Bethany"
+    ],
+    "answer": "Cana"
+  },
+  {
+    "category": "New Testament",
+    "question": "What is the name of Jesus' famous teaching that begins 'Blessed are the poor in spirit'?",
+    "options": [
+      "The Sermon on the Mount",
+      "The Parable of the Sower",
+      "The Great Commission",
+      "The Lord's Prayer"
+    ],
+    "answer": "The Sermon on the Mount"
+  },
+  {
+    "category": "New Testament",
+    "question": "How many loaves and fish fed the crowd of 5,000?",
+    "options": [
+      "5 loaves, 2 fish",
+      "2 loaves, 5 fish",
+      "7 loaves, 2 fish",
+      "3 loaves, 5 fish"
+    ],
+    "answer": "5 loaves, 2 fish"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which disciple stepped out of the boat to walk on water toward Jesus?",
+    "options": [
+      "Peter",
+      "John",
+      "Andrew",
+      "Thomas"
+    ],
+    "answer": "Peter"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who did Jesus raise from the dead after four days in the tomb?",
+    "options": [
+      "Lazarus",
+      "Jairus' daughter",
+      "The widow's son",
+      "Stephen"
+    ],
+    "answer": "Lazarus"
+  },
+  {
+    "category": "New Testament",
+    "question": "In which village did Lazarus live?",
+    "options": [
+      "Bethany",
+      "Bethlehem",
+      "Bethsaida",
+      "Jericho"
+    ],
+    "answer": "Bethany"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who anointed Jesus' feet with expensive perfume and wiped them with her hair?",
+    "options": [
+      "Mary of Bethany",
+      "Martha",
+      "Mary Magdalene",
+      "Joanna"
+    ],
+    "answer": "Mary of Bethany"
+  },
+  {
+    "category": "New Testament",
+    "question": "What animal did Jesus ride into Jerusalem on Palm Sunday?",
+    "options": [
+      "A horse",
+      "A donkey",
+      "A camel",
+      "An ox"
+    ],
+    "answer": "A donkey"
+  },
+  {
+    "category": "New Testament",
+    "question": "What meal did Jesus share with His disciples the night before His crucifixion?",
+    "options": [
+      "The Last Supper",
+      "The Passover of Egypt",
+      "The Wedding Feast",
+      "The Feast of Tabernacles"
+    ],
+    "answer": "The Last Supper"
+  },
+  {
+    "category": "New Testament",
+    "question": "In which garden did Jesus pray before His arrest?",
+    "options": [
+      "Eden",
+      "Gethsemane",
+      "Gilead",
+      "Gerar"
+    ],
+    "answer": "Gethsemane"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who betrayed Jesus to the religious authorities?",
+    "options": [
+      "Judas Iscariot",
+      "Peter",
+      "Thomas",
+      "Barabbas"
+    ],
+    "answer": "Judas Iscariot"
+  },
+  {
+    "category": "New Testament",
+    "question": "For how many pieces of silver did Judas betray Jesus?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": "30"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which disciple denied knowing Jesus three times?",
+    "options": [
+      "Peter",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "answer": "Peter"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who was the Roman governor who sentenced Jesus to be crucified?",
+    "options": [
+      "Herod",
+      "Pontius Pilate",
+      "Caiaphas",
+      "Felix"
+    ],
+    "answer": "Pontius Pilate"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which prisoner was released instead of Jesus at the crowd's request?",
+    "options": [
+      "Barabbas",
+      "Judas",
+      "Herod",
+      "Annas"
+    ],
+    "answer": "Barabbas"
+  },
+  {
+    "category": "New Testament",
+    "question": "What was written above Jesus on the cross?",
+    "options": [
+      "'Son of David'",
+      "'King of the Jews'",
+      "'Prophet of Nazareth'",
+      "'Lamb of God'"
+    ],
+    "answer": "'King of the Jews'"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who carried Jesus' cross part of the way to Golgotha?",
+    "options": [
+      "Simon of Cyrene",
+      "Nicodemus",
+      "Joseph of Arimathea",
+      "Barabbas"
+    ],
+    "answer": "Simon of Cyrene"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who donated his own tomb for Jesus' burial?",
+    "options": [
+      "Joseph of Arimathea",
+      "Nicodemus",
+      "Simon Peter",
+      "Lazarus"
+    ],
+    "answer": "Joseph of Arimathea"
+  },
+  {
+    "category": "New Testament",
+    "question": "On which day of the week did Jesus rise from the dead?",
+    "options": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Monday"
+    ],
+    "answer": "Sunday"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who was the first person to see Jesus after His resurrection?",
+    "options": [
+      "Peter",
+      "Mary Magdalene",
+      "John",
+      "Thomas"
+    ],
+    "answer": "Mary Magdalene"
+  },
+  {
+    "category": "New Testament",
+    "question": "To whom did the risen Jesus appear on the road to Emmaus?",
+    "options": [
+      "Two unnamed disciples",
+      "The eleven apostles",
+      "Mary and Martha",
+      "Roman soldiers"
+    ],
+    "answer": "Two unnamed disciples"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which disciple doubted the resurrection until he touched Jesus' wounds?",
+    "options": [
+      "Thomas",
+      "Philip",
+      "Bartholomew",
+      "James"
+    ],
+    "answer": "Thomas"
+  },
+  {
+    "category": "New Testament",
+    "question": "How many days after His resurrection did Jesus ascend into heaven?",
+    "options": [
+      "3",
+      "10",
+      "40",
+      "50"
+    ],
+    "answer": "40"
+  },
+  {
+    "category": "New Testament",
+    "question": "What event, occurring fifty days after Passover, marked the coming of the Holy Spirit?",
+    "options": [
+      "Pentecost",
+      "The Transfiguration",
+      "The Ascension",
+      "The Passover"
+    ],
+    "answer": "Pentecost"
+  },
+  {
+    "category": "New Testament",
+    "question": "What was Paul's name before his conversion to Christianity?",
+    "options": [
+      "Saul",
+      "Silas",
+      "Barnabas",
+      "Stephen"
+    ],
+    "answer": "Saul"
+  },
+  {
+    "category": "New Testament",
+    "question": "On the road to which city was Paul struck blind and converted?",
+    "options": [
+      "Damascus",
+      "Antioch",
+      "Corinth",
+      "Ephesus"
+    ],
+    "answer": "Damascus"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who was the first Christian martyr, stoned for his faith?",
+    "options": [
+      "Stephen",
+      "James",
+      "Barnabas",
+      "Timothy"
+    ],
+    "answer": "Stephen"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which island was Paul shipwrecked on during his journey to Rome?",
+    "options": [
+      "Cyprus",
+      "Malta",
+      "Crete",
+      "Patmos"
+    ],
+    "answer": "Malta"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who wrote the book of Revelation while exiled on the island of Patmos?",
+    "options": [
+      "Paul",
+      "John",
+      "Peter",
+      "James"
+    ],
+    "answer": "John"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which disciple's mother-in-law was healed by Jesus?",
+    "options": [
+      "Peter's",
+      "Andrew's",
+      "John's",
+      "James'"
+    ],
+    "answer": "Peter's"
+  },
+  {
+    "category": "New Testament",
+    "question": "What did Jesus say was the greatest commandment?",
+    "options": [
+      "To love God with all your heart",
+      "To keep the Sabbath",
+      "To honor your parents",
+      "To give to the poor"
+    ],
+    "answer": "To love God with all your heart"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which Gospel is traditionally attributed to a physician?",
+    "options": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ],
+    "answer": "Luke"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who was the Roman centurion whose servant Jesus healed from a distance?",
+    "options": [
+      "Cornelius",
+      "A centurion in Capernaum",
+      "Julius",
+      "Longinus"
+    ],
+    "answer": "A centurion in Capernaum"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which apostle is traditionally said to have been crucified upside down?",
+    "options": [
+      "Peter",
+      "Paul",
+      "Andrew",
+      "James"
+    ],
+    "answer": "Peter"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Sower, what happened to seed that fell on the path?",
+    "options": [
+      "It grew quickly",
+      "Birds ate it",
+      "It was choked by thorns",
+      "It produced a great harvest"
+    ],
+    "answer": "Birds ate it"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Sower, what choked the seed that fell among thorns?",
+    "options": [
+      "Rocks",
+      "Thorns",
+      "Birds",
+      "Drought"
+    ],
+    "answer": "Thorns"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Sower, what happened to seed sown on good soil?",
+    "options": [
+      "It withered",
+      "It produced a great harvest",
+      "Birds ate it",
+      "Nothing happened"
+    ],
+    "answer": "It produced a great harvest"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Good Samaritan, who stopped to help the injured traveler?",
+    "options": [
+      "A priest",
+      "A Levite",
+      "A Samaritan",
+      "A Pharisee"
+    ],
+    "answer": "A Samaritan"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Good Samaritan, which two people passed by without helping?",
+    "options": [
+      "A priest and a Levite",
+      "Two Samaritans",
+      "Two Roman soldiers",
+      "A tax collector and a scribe"
+    ],
+    "answer": "A priest and a Levite"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Prodigal Son, what did the younger son ask his father for?",
+    "options": [
+      "A blessing",
+      "His inheritance early",
+      "A new robe",
+      "Forgiveness"
+    ],
+    "answer": "His inheritance early"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Prodigal Son, what did the father give his returning son?",
+    "options": [
+      "A field",
+      "A robe, a ring, and sandals",
+      "A servant",
+      "Nothing"
+    ],
+    "answer": "A robe, a ring, and sandals"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Prodigal Son, who was upset that his father celebrated his brother's return?",
+    "options": [
+      "The younger son",
+      "The older son",
+      "A servant",
+      "The neighbors"
+    ],
+    "answer": "The older son"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Lost Sheep, how many sheep did the shepherd leave to find the one lost sheep?",
+    "options": [
+      "9",
+      "50",
+      "99",
+      "100"
+    ],
+    "answer": "99"
+  },
+  {
+    "category": "Parables",
+    "question": "What did the woman lose and search for diligently in the Parable of the Lost Coin?",
+    "options": [
+      "A ring",
+      "A silver coin",
+      "A lamp",
+      "A necklace"
+    ],
+    "answer": "A silver coin"
+  },
+  {
+    "category": "Parables",
+    "question": "What does the Parable of the Mustard Seed compare the kingdom of heaven to?",
+    "options": [
+      "A tiny seed that grows into a large tree",
+      "A field of wheat",
+      "A vineyard",
+      "A fig tree"
+    ],
+    "answer": "A tiny seed that grows into a large tree"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Talents, how many talents did the first servant receive?",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Talents, what did the servant with one talent do with it?",
+    "options": [
+      "Invested it",
+      "Buried it",
+      "Gave it away",
+      "Lost it gambling"
+    ],
+    "answer": "Buried it"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Ten Virgins, what did the foolish virgins forget to bring?",
+    "options": [
+      "Their lamps",
+      "Extra oil",
+      "Wedding gifts",
+      "Food"
+    ],
+    "answer": "Extra oil"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Rich Fool, what was he planning to build to store his abundant crops?",
+    "options": [
+      "A house",
+      "Bigger barns",
+      "A temple",
+      "A wall"
+    ],
+    "answer": "Bigger barns"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Unforgiving Servant, what did the king forgive the servant?",
+    "options": [
+      "A small debt",
+      "A huge debt",
+      "A crime",
+      "A broken promise"
+    ],
+    "answer": "A huge debt"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Unforgiving Servant, how did that servant then treat a fellow servant?",
+    "options": [
+      "He forgave him too",
+      "He had him thrown into prison",
+      "He gave him money",
+      "He ignored him"
+    ],
+    "answer": "He had him thrown into prison"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Workers in the Vineyard, how were the late-arriving workers paid compared to those who worked all day?",
+    "options": [
+      "Less",
+      "The same wage",
+      "More",
+      "Nothing"
+    ],
+    "answer": "The same wage"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Pharisee and the Tax Collector, who prayed boastfully about his own righteousness?",
+    "options": [
+      "The tax collector",
+      "The Pharisee",
+      "A priest",
+      "A scribe"
+    ],
+    "answer": "The Pharisee"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Pharisee and the Tax Collector, who went home justified before God?",
+    "options": [
+      "The Pharisee",
+      "The tax collector",
+      "Neither",
+      "Both"
+    ],
+    "answer": "The tax collector"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Wedding Feast, what happened when the invited guests refused to come?",
+    "options": [
+      "The feast was canceled",
+      "Others were invited in their place",
+      "The king went alone",
+      "The feast was postponed"
+    ],
+    "answer": "Others were invited in their place"
+  },
+  {
+    "category": "Parables",
+    "question": "What did the widow persistently seek from the unjust judge in that parable?",
+    "options": [
+      "Money",
+      "Justice against her adversary",
+      "A husband",
+      "A home"
+    ],
+    "answer": "Justice against her adversary"
+  },
+  {
+    "category": "Parables",
+    "question": "What does the Parable of the Growing Seed illustrate?",
+    "options": [
+      "The kingdom of God growing unseen",
+      "The danger of greed",
+      "The importance of prayer",
+      "The cost of discipleship"
+    ],
+    "answer": "The kingdom of God growing unseen"
+  },
+  {
+    "category": "Parables",
+    "question": "What does the Parable of the Leaven compare the kingdom of heaven to?",
+    "options": [
+      "A mustard seed",
+      "Yeast working through dough",
+      "A pearl",
+      "A net"
+    ],
+    "answer": "Yeast working through dough"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Two Debtors, who loved the moneylender more?",
+    "options": [
+      "The one who owed less",
+      "The one who owed more and was forgiven more",
+      "Neither",
+      "Both equally"
+    ],
+    "answer": "The one who owed more and was forgiven more"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Sheep and the Goats, which group is placed on the right hand as the righteous?",
+    "options": [
+      "The goats",
+      "The sheep",
+      "Both",
+      "Neither"
+    ],
+    "answer": "The sheep"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Ten Minas, what happened to the servant who hid his mina in a cloth?",
+    "options": [
+      "He was rewarded",
+      "It was taken from him",
+      "He kept it safely",
+      "He was promoted"
+    ],
+    "answer": "It was taken from him"
+  },
+  {
+    "category": "Parables",
+    "question": "What did the owner decide to do with the barren fig tree in that parable?",
+    "options": [
+      "Cut it down immediately",
+      "Give it one more year",
+      "Water it more",
+      "Replant it elsewhere"
+    ],
+    "answer": "Give it one more year"
+  },
+  {
+    "category": "Parables",
+    "question": "Which parable is also sometimes called the Parable of the Two Sons?",
+    "options": [
+      "The Prodigal Son",
+      "The Sower",
+      "The Good Samaritan",
+      "The Talents"
+    ],
+    "answer": "The Prodigal Son"
+  },
+  {
+    "category": "Parables",
+    "question": "Which parable teaches that persistent prayer will be answered, using a widow and a judge?",
+    "options": [
+      "The Persistent Widow",
+      "The Rich Fool",
+      "The Lost Sheep",
+      "The Sower"
+    ],
+    "answer": "The Persistent Widow"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet challenged the prophets of Baal at Mount Carmel?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Isaiah",
+      "Amos"
+    ],
+    "answer": "Elijah"
+  },
+  {
+    "category": "Prophets",
+    "question": "How did Elijah leave the earth, according to 2 Kings?",
+    "options": [
+      "He died peacefully",
+      "He was taken up in a whirlwind by a chariot of fire",
+      "He was killed by enemies",
+      "He disappeared into the sea"
+    ],
+    "answer": "He was taken up in a whirlwind by a chariot of fire"
+  },
+  {
+    "category": "Prophets",
+    "question": "Who succeeded Elijah as prophet, inheriting a double portion of his spirit?",
+    "options": [
+      "Elisha",
+      "Amos",
+      "Hosea",
+      "Micah"
+    ],
+    "answer": "Elisha"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet foretold that a virgin would bear a son called Immanuel?",
+    "options": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "answer": "Isaiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet is called the 'weeping prophet' for lamenting over Jerusalem?",
+    "options": [
+      "Jeremiah",
+      "Ezekiel",
+      "Amos",
+      "Joel"
+    ],
+    "answer": "Jeremiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet wrote the book of Lamentations, traditionally attributed to him?",
+    "options": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Hosea"
+    ],
+    "answer": "Jeremiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet saw a vision of a valley of dry bones coming to life?",
+    "options": [
+      "Ezekiel",
+      "Daniel",
+      "Elisha",
+      "Zechariah"
+    ],
+    "answer": "Ezekiel"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet interpreted King Nebuchadnezzar's dream of a great statue?",
+    "options": [
+      "Daniel",
+      "Ezekiel",
+      "Isaiah",
+      "Jeremiah"
+    ],
+    "answer": "Daniel"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet was thrown into a den of lions for praying to God?",
+    "options": [
+      "Daniel",
+      "Jonah",
+      "Elijah",
+      "Micah"
+    ],
+    "answer": "Daniel"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet was called to preach to Nineveh but fled by ship instead?",
+    "options": [
+      "Jonah",
+      "Nahum",
+      "Obadiah",
+      "Habakkuk"
+    ],
+    "answer": "Jonah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet's message is the shortest book in the Old Testament, directed against Edom?",
+    "options": [
+      "Obadiah",
+      "Joel",
+      "Nahum",
+      "Malachi"
+    ],
+    "answer": "Obadiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet married a woman named Gomer as a symbolic act of God's love for unfaithful Israel?",
+    "options": [
+      "Hosea",
+      "Amos",
+      "Micah",
+      "Joel"
+    ],
+    "answer": "Hosea"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet was a shepherd from Tekoa who preached against social injustice?",
+    "options": [
+      "Amos",
+      "Micah",
+      "Nahum",
+      "Zephaniah"
+    ],
+    "answer": "Amos"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet foretold that the Messiah would be born in Bethlehem?",
+    "options": [
+      "Micah",
+      "Malachi",
+      "Zechariah",
+      "Haggai"
+    ],
+    "answer": "Micah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet questioned God about the injustice of using the wicked Babylonians to punish Judah?",
+    "options": [
+      "Habakkuk",
+      "Zephaniah",
+      "Haggai",
+      "Nahum"
+    ],
+    "answer": "Habakkuk"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet encouraged the Israelites to rebuild the Temple after the exile?",
+    "options": [
+      "Haggai",
+      "Malachi",
+      "Joel",
+      "Obadiah"
+    ],
+    "answer": "Haggai"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which is the last book of the Old Testament, ending with a promise of Elijah's return?",
+    "options": [
+      "Malachi",
+      "Zechariah",
+      "Habakkuk",
+      "Nahum"
+    ],
+    "answer": "Malachi"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet saw visions of four horsemen and a coming king riding on a donkey?",
+    "options": [
+      "Zechariah",
+      "Zephaniah",
+      "Joel",
+      "Amos"
+    ],
+    "answer": "Zechariah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet described a locust plague as a sign of the coming 'Day of the Lord'?",
+    "options": [
+      "Joel",
+      "Amos",
+      "Nahum",
+      "Obadiah"
+    ],
+    "answer": "Joel"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet confronted King David after his sin with Bathsheba?",
+    "options": [
+      "Nathan",
+      "Gad",
+      "Samuel",
+      "Ahijah"
+    ],
+    "answer": "Nathan"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet anointed both Saul and David as kings of Israel?",
+    "options": [
+      "Samuel",
+      "Nathan",
+      "Elijah",
+      "Gad"
+    ],
+    "answer": "Samuel"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophetess judged Israel and sat under a palm tree to settle disputes?",
+    "options": [
+      "Deborah",
+      "Huldah",
+      "Miriam",
+      "Anna"
+    ],
+    "answer": "Deborah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet was mocked by youths for his baldness and cursed them in God's name?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Ezekiel",
+      "Amos"
+    ],
+    "answer": "Elisha"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet multiplied a widow's oil so she could pay her debts?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Isaiah",
+      "Nathan"
+    ],
+    "answer": "Elisha"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet healed Naaman the Syrian commander of leprosy?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Isaiah",
+      "Ezekiel"
+    ],
+    "answer": "Elisha"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet had his lips touched by a burning coal in his commissioning vision?",
+    "options": [
+      "Isaiah",
+      "Jeremiah",
+      "Ezekiel",
+      "Daniel"
+    ],
+    "answer": "Isaiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet was told by God to buy a field as a sign of future restoration, even as Jerusalem faced siege?",
+    "options": [
+      "Jeremiah",
+      "Ezekiel",
+      "Isaiah",
+      "Daniel"
+    ],
+    "answer": "Jeremiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet's writings foretell the 'suffering servant' often connected to the Messiah?",
+    "options": [
+      "Isaiah",
+      "Ezekiel",
+      "Jeremiah",
+      "Daniel"
+    ],
+    "answer": "Isaiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet was called while still very young and told 'do not say I am too young'?",
+    "options": [
+      "Jeremiah",
+      "Isaiah",
+      "Ezekiel",
+      "Samuel"
+    ],
+    "answer": "Jeremiah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which woman prophetess confirmed the authenticity of the Book of the Law found in the Temple?",
+    "options": [
+      "Huldah",
+      "Deborah",
+      "Miriam",
+      "Anna"
+    ],
+    "answer": "Huldah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet ministered during the Babylonian exile and often used symbolic acts, like lying on his side for months?",
+    "options": [
+      "Ezekiel",
+      "Jeremiah",
+      "Daniel",
+      "Isaiah"
+    ],
+    "answer": "Ezekiel"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet warned Nineveh's downfall would come, unlike Jonah's earlier successful call to repentance?",
+    "options": [
+      "Nahum",
+      "Habakkuk",
+      "Zephaniah",
+      "Malachi"
+    ],
+    "answer": "Nahum"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet warned of the coming 'Day of the Lord' as a time of darkness and judgment on Judah?",
+    "options": [
+      "Zephaniah",
+      "Joel",
+      "Obadiah",
+      "Nahum"
+    ],
+    "answer": "Zephaniah"
+  },
+  {
+    "category": "Prophets",
+    "question": "John the Baptist is often compared to which Old Testament prophet who is said to return before the 'Day of the Lord'?",
+    "options": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Moses"
+    ],
+    "answer": "Elijah"
+  },
+  {
+    "category": "Prophets",
+    "question": "Which prophet confronted King Ahab over Naboth's vineyard?",
+    "options": [
+      "Elijah",
+      "Elisha",
+      "Micaiah",
+      "Nathan"
+    ],
+    "answer": "Elijah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Who was the first king of Israel, anointed by Samuel?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Ish-bosheth"
+    ],
+    "answer": "Saul"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king was famous for his wisdom and building the first Temple?",
+    "options": [
+      "David",
+      "Solomon",
+      "Rehoboam",
+      "Hezekiah"
+    ],
+    "answer": "Solomon"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "After Solomon's death, the kingdom split into Israel and which other kingdom?",
+    "options": [
+      "Judah",
+      "Assyria",
+      "Babylon",
+      "Edom"
+    ],
+    "answer": "Judah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king's harsh policies caused the kingdom to split after Solomon's death?",
+    "options": [
+      "Rehoboam",
+      "Jeroboam",
+      "Ahab",
+      "Jehu"
+    ],
+    "answer": "Rehoboam"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Who was the first king of the northern kingdom of Israel after the split?",
+    "options": [
+      "Jeroboam",
+      "Rehoboam",
+      "Omri",
+      "Ahab"
+    ],
+    "answer": "Jeroboam"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which wicked king of Israel married Jezebel and promoted worship of Baal?",
+    "options": [
+      "Ahab",
+      "Omri",
+      "Jehu",
+      "Ahaziah"
+    ],
+    "answer": "Ahab"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king had Naboth killed to seize his vineyard?",
+    "options": [
+      "Ahab",
+      "Jehu",
+      "Omri",
+      "Zimri"
+    ],
+    "answer": "Ahab"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king destroyed the house of Ahab and the worshippers of Baal?",
+    "options": [
+      "Jehu",
+      "Jehoram",
+      "Jehoash",
+      "Jeroboam"
+    ],
+    "answer": "Jehu"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which righteous king of Judah tore down idols and celebrated a great Passover?",
+    "options": [
+      "Josiah",
+      "Manasseh",
+      "Amon",
+      "Jehoiakim"
+    ],
+    "answer": "Josiah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king of Judah was healed by God after Isaiah prayed, gaining 15 more years of life?",
+    "options": [
+      "Hezekiah",
+      "Ahaz",
+      "Uzziah",
+      "Jotham"
+    ],
+    "answer": "Hezekiah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king of Judah became prideful, was struck with leprosy for burning incense in the Temple?",
+    "options": [
+      "Uzziah",
+      "Hezekiah",
+      "Josiah",
+      "Jehoshaphat"
+    ],
+    "answer": "Uzziah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which Babylonian king conquered Jerusalem and destroyed Solomon's Temple?",
+    "options": [
+      "Nebuchadnezzar",
+      "Cyrus",
+      "Darius",
+      "Belshazzar"
+    ],
+    "answer": "Nebuchadnezzar"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king saw the mysterious handwriting on the wall at his feast?",
+    "options": [
+      "Belshazzar",
+      "Nebuchadnezzar",
+      "Cyrus",
+      "Darius"
+    ],
+    "answer": "Belshazzar"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which Persian king allowed the Jewish exiles to return and rebuild the Temple?",
+    "options": [
+      "Cyrus",
+      "Nebuchadnezzar",
+      "Darius",
+      "Xerxes"
+    ],
+    "answer": "Cyrus"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which Persian king made Esther his queen?",
+    "options": [
+      "Xerxes (Ahasuerus)",
+      "Cyrus",
+      "Darius",
+      "Artaxerxes"
+    ],
+    "answer": "Xerxes (Ahasuerus)"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king ruled Judea when Jesus was born?",
+    "options": [
+      "Herod the Great",
+      "Herod Antipas",
+      "Herod Agrippa",
+      "Pontius Pilate"
+    ],
+    "answer": "Herod the Great"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which ruler had John the Baptist beheaded?",
+    "options": [
+      "Herod Antipas",
+      "Herod the Great",
+      "Herod Agrippa",
+      "Pontius Pilate"
+    ],
+    "answer": "Herod Antipas"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king succeeded his father David to the throne of Israel?",
+    "options": [
+      "Solomon",
+      "Absalom",
+      "Adonijah",
+      "Rehoboam"
+    ],
+    "answer": "Solomon"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which of David's sons led a rebellion against his own father?",
+    "options": [
+      "Absalom",
+      "Solomon",
+      "Amnon",
+      "Chileab"
+    ],
+    "answer": "Absalom"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Who was Israel's king before David, from the tribe of Benjamin?",
+    "options": [
+      "Saul",
+      "Ish-bosheth",
+      "Abner",
+      "Jonathan"
+    ],
+    "answer": "Saul"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which queen ruled Judah and tried to destroy the entire royal family to keep power?",
+    "options": [
+      "Athaliah",
+      "Jezebel",
+      "Esther",
+      "Vashti"
+    ],
+    "answer": "Athaliah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which foreign queen tested Solomon's wisdom with hard questions?",
+    "options": [
+      "The Queen of Sheba",
+      "Queen Esther",
+      "Queen Vashti",
+      "Queen Jezebel"
+    ],
+    "answer": "The Queen of Sheba"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king of Judah is remembered as one of the most wicked, sacrificing his own son?",
+    "options": [
+      "Manasseh",
+      "Josiah",
+      "Hezekiah",
+      "Jotham"
+    ],
+    "answer": "Manasseh"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which good king of Judah made an alliance with wicked King Ahab of Israel?",
+    "options": [
+      "Jehoshaphat",
+      "Asa",
+      "Uzziah",
+      "Amaziah"
+    ],
+    "answer": "Jehoshaphat"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Who led the rebuilding of Jerusalem's walls after the exile, serving as governor rather than king?",
+    "options": [
+      "Nehemiah",
+      "Zerubbabel",
+      "Ezra",
+      "Cyrus"
+    ],
+    "answer": "Nehemiah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which Assyrian king conquered the northern kingdom of Israel and deported its people?",
+    "options": [
+      "Shalmaneser",
+      "Sennacherib",
+      "Nebuchadnezzar",
+      "Tiglath-Pileser"
+    ],
+    "answer": "Shalmaneser"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which Assyrian king's siege of Jerusalem was miraculously broken during Hezekiah's reign?",
+    "options": [
+      "Sennacherib",
+      "Shalmaneser",
+      "Ashurbanipal",
+      "Esarhaddon"
+    ],
+    "answer": "Sennacherib"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Who was Israel's very first anointed king, chosen because the people wanted to be like other nations?",
+    "options": [
+      "Saul",
+      "David",
+      "Solomon",
+      "Samuel"
+    ],
+    "answer": "Saul"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which of David's mighty men and army commanders killed Absalom against David's wishes?",
+    "options": [
+      "Joab",
+      "Abishai",
+      "Benaiah",
+      "Ittai"
+    ],
+    "answer": "Joab"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king reigned over the united kingdom of Israel for 40 years, succeeded by his son Solomon?",
+    "options": [
+      "David",
+      "Saul",
+      "Rehoboam",
+      "Jeroboam"
+    ],
+    "answer": "David"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king of Persia is featured prominently in the book of Esther?",
+    "options": [
+      "Ahasuerus (Xerxes)",
+      "Cyrus",
+      "Darius",
+      "Nebuchadnezzar"
+    ],
+    "answer": "Ahasuerus (Xerxes)"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which governor and cupbearer helped rebuild Jerusalem's walls under Persian authority?",
+    "options": [
+      "Nehemiah",
+      "Ezra",
+      "Zerubbabel",
+      "Mordecai"
+    ],
+    "answer": "Nehemiah"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which priest led a group of exiles back to Jerusalem and reintroduced the Law to the people?",
+    "options": [
+      "Ezra",
+      "Nehemiah",
+      "Zerubbabel",
+      "Haggai"
+    ],
+    "answer": "Ezra"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which leader oversaw the first group of exiles returning to rebuild the Temple's foundation?",
+    "options": [
+      "Zerubbabel",
+      "Ezra",
+      "Nehemiah",
+      "Joshua the high priest"
+    ],
+    "answer": "Zerubbabel"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Who was the first woman, created from Adam's rib?",
+    "options": [
+      "Eve",
+      "Sarah",
+      "Rachel",
+      "Leah"
+    ],
+    "answer": "Eve"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman laughed when told she would bear a son in her old age?",
+    "options": [
+      "Sarah",
+      "Rebekah",
+      "Rachel",
+      "Hannah"
+    ],
+    "answer": "Sarah"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman disguised her husband's brother trick to secure Isaac's blessing for her favored son?",
+    "options": [
+      "Rebekah",
+      "Sarah",
+      "Rachel",
+      "Leah"
+    ],
+    "answer": "Rebekah"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which of Jacob's wives was loved more, though she struggled with infertility?",
+    "options": [
+      "Rachel",
+      "Leah",
+      "Zilpah",
+      "Bilhah"
+    ],
+    "answer": "Rachel"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman hid Moses in a basket among the reeds of the Nile?",
+    "options": [
+      "Jochebed, his mother",
+      "Miriam, his sister",
+      "Zipporah, his wife",
+      "Pharaoh's daughter"
+    ],
+    "answer": "Jochebed, his mother"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which princess found baby Moses and raised him in the palace?",
+    "options": [
+      "Pharaoh's daughter",
+      "Zipporah",
+      "Miriam",
+      "Jochebed"
+    ],
+    "answer": "Pharaoh's daughter"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which prophetess and judge led Israel to victory over a Canaanite army?",
+    "options": [
+      "Deborah",
+      "Jael",
+      "Huldah",
+      "Miriam"
+    ],
+    "answer": "Deborah"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman killed the enemy commander Sisera by driving a tent peg through his head?",
+    "options": [
+      "Jael",
+      "Deborah",
+      "Delilah",
+      "Rahab"
+    ],
+    "answer": "Jael"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which Canaanite woman hid Israelite spies in Jericho and was later spared?",
+    "options": [
+      "Rahab",
+      "Ruth",
+      "Tamar",
+      "Bathsheba"
+    ],
+    "answer": "Rahab"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which Moabite woman famously said 'Where you go, I will go' to her mother-in-law?",
+    "options": [
+      "Ruth",
+      "Orpah",
+      "Naomi",
+      "Rachel"
+    ],
+    "answer": "Ruth"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Who was Ruth's kinsman-redeemer whom she later married?",
+    "options": [
+      "Boaz",
+      "Mahlon",
+      "Elimelech",
+      "Obed"
+    ],
+    "answer": "Boaz"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman betrayed Samson by cutting his hair to weaken him?",
+    "options": [
+      "Delilah",
+      "Rahab",
+      "Jezebel",
+      "Jael"
+    ],
+    "answer": "Delilah"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman prayed fervently for a son and later dedicated him, Samuel, to the Lord?",
+    "options": [
+      "Hannah",
+      "Sarah",
+      "Elizabeth",
+      "Rebekah"
+    ],
+    "answer": "Hannah"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which wicked queen promoted Baal worship and persecuted the prophets of God?",
+    "options": [
+      "Jezebel",
+      "Athaliah",
+      "Esther",
+      "Vashti"
+    ],
+    "answer": "Jezebel"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman became queen of Persia and saved her people from destruction?",
+    "options": [
+      "Esther",
+      "Vashti",
+      "Ruth",
+      "Rahab"
+    ],
+    "answer": "Esther"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which queen was deposed for refusing the king's summons at a royal banquet?",
+    "options": [
+      "Vashti",
+      "Esther",
+      "Jezebel",
+      "Athaliah"
+    ],
+    "answer": "Vashti"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Who was David's wife who despised him for dancing before the Lord?",
+    "options": [
+      "Michal",
+      "Bathsheba",
+      "Abigail",
+      "Ahinoam"
+    ],
+    "answer": "Michal"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which wise woman intervened to prevent David from taking revenge on her foolish husband Nabal?",
+    "options": [
+      "Abigail",
+      "Michal",
+      "Bathsheba",
+      "Tamar"
+    ],
+    "answer": "Abigail"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Who was the wife of Uriah with whom David committed adultery?",
+    "options": [
+      "Bathsheba",
+      "Abigail",
+      "Michal",
+      "Tamar"
+    ],
+    "answer": "Bathsheba"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which foreign queen visited Solomon to test his wisdom with hard questions?",
+    "options": [
+      "The Queen of Sheba",
+      "Queen Esther",
+      "Queen Jezebel",
+      "Queen Athaliah"
+    ],
+    "answer": "The Queen of Sheba"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Who was the mother of Jesus?",
+    "options": [
+      "Mary",
+      "Martha",
+      "Elizabeth",
+      "Salome"
+    ],
+    "answer": "Mary"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Who was the mother of John the Baptist?",
+    "options": [
+      "Elizabeth",
+      "Mary",
+      "Anna",
+      "Salome"
+    ],
+    "answer": "Elizabeth"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which prophetess recognized the baby Jesus as the Messiah at the Temple?",
+    "options": [
+      "Anna",
+      "Elizabeth",
+      "Mary",
+      "Huldah"
+    ],
+    "answer": "Anna"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Who was the first person Jesus appeared to after His resurrection?",
+    "options": [
+      "Mary Magdalene",
+      "Mary, His mother",
+      "Martha",
+      "Joanna"
+    ],
+    "answer": "Mary Magdalene"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which sister of Lazarus was known for sitting at Jesus' feet listening to Him teach?",
+    "options": [
+      "Mary",
+      "Martha",
+      "Salome",
+      "Joanna"
+    ],
+    "answer": "Mary"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which sister of Lazarus was busy with household preparations while Jesus visited?",
+    "options": [
+      "Martha",
+      "Mary",
+      "Salome",
+      "Susanna"
+    ],
+    "answer": "Martha"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which Samaritan woman met Jesus at a well and later told her whole town about Him?",
+    "options": [
+      "The Samaritan woman at the well",
+      "Mary Magdalene",
+      "Joanna",
+      "Susanna"
+    ],
+    "answer": "The Samaritan woman at the well"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman was healed after touching the hem of Jesus' garment?",
+    "options": [
+      "A woman with a chronic bleeding condition",
+      "A blind woman",
+      "A deaf woman",
+      "A lame woman"
+    ],
+    "answer": "A woman with a chronic bleeding condition"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which businesswoman in Philippi became one of Paul's early converts and hosts?",
+    "options": [
+      "Lydia",
+      "Priscilla",
+      "Phoebe",
+      "Junia"
+    ],
+    "answer": "Lydia"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman, along with her husband Aquila, taught and helped the preacher Apollos?",
+    "options": [
+      "Priscilla",
+      "Lydia",
+      "Phoebe",
+      "Chloe"
+    ],
+    "answer": "Priscilla"
+  },
+  {
+    "category": "Miracles",
+    "question": "What was Jesus' first miracle, performed at a wedding in Cana?",
+    "options": [
+      "Turning water into wine",
+      "Healing a leper",
+      "Calming a storm",
+      "Feeding 5,000"
+    ],
+    "answer": "Turning water into wine"
+  },
+  {
+    "category": "Miracles",
+    "question": "How many people did Jesus feed with five loaves and two fish?",
+    "options": [
+      "3,000",
+      "5,000",
+      "10,000",
+      "500"
+    ],
+    "answer": "5,000"
+  },
+  {
+    "category": "Miracles",
+    "question": "What natural event did Jesus calm while His disciples panicked in a boat?",
+    "options": [
+      "A storm",
+      "An earthquake",
+      "A famine",
+      "A drought"
+    ],
+    "answer": "A storm"
+  },
+  {
+    "category": "Miracles",
+    "question": "What did Jesus do when He saw Peter sinking while trying to walk on water?",
+    "options": [
+      "Reached out and caught him",
+      "Let him sink to teach a lesson",
+      "Called him back to shore",
+      "Sent an angel"
+    ],
+    "answer": "Reached out and caught him"
+  },
+  {
+    "category": "Miracles",
+    "question": "Whom did Jesus raise from the dead after he had been in the tomb four days?",
+    "options": [
+      "Lazarus",
+      "Jairus' daughter",
+      "The widow's son at Nain",
+      "Stephen"
+    ],
+    "answer": "Lazarus"
+  },
+  {
+    "category": "Miracles",
+    "question": "Whose daughter did Jesus raise from the dead, saying 'she is not dead but sleeping'?",
+    "options": [
+      "Jairus' daughter",
+      "Herodias' daughter",
+      "The widow's daughter",
+      "Martha's daughter"
+    ],
+    "answer": "Jairus' daughter"
+  },
+  {
+    "category": "Miracles",
+    "question": "Whose son did Jesus raise from the dead during a funeral procession in Nain?",
+    "options": [
+      "A widow's son",
+      "A centurion's son",
+      "A ruler's son",
+      "A fisherman's son"
+    ],
+    "answer": "A widow's son"
+  },
+  {
+    "category": "Miracles",
+    "question": "What condition afflicted the man Jesus healed by the pool of Bethesda?",
+    "options": [
+      "He had been paralyzed/lame for 38 years",
+      "He was blind",
+      "He was deaf",
+      "He had leprosy"
+    ],
+    "answer": "He had been paralyzed/lame for 38 years"
+  },
+  {
+    "category": "Miracles",
+    "question": "How many lepers did Jesus heal on the way to Jerusalem, of whom only one returned to give thanks?",
+    "options": [
+      "5",
+      "10",
+      "12",
+      "7"
+    ],
+    "answer": "10"
+  },
+  {
+    "category": "Miracles",
+    "question": "What did Jesus use to heal a man born blind, applied to his eyes?",
+    "options": [
+      "Mud made from spit and dirt",
+      "Oil",
+      "Water alone",
+      "Wine"
+    ],
+    "answer": "Mud made from spit and dirt"
+  },
+  {
+    "category": "Miracles",
+    "question": "What kind of spirit did Jesus cast out of a boy who suffered seizures?",
+    "options": [
+      "A mute and deaf spirit",
+      "A spirit of blindness",
+      "A spirit of illness",
+      "A spirit of fear"
+    ],
+    "answer": "A mute and deaf spirit"
+  },
+  {
+    "category": "Miracles",
+    "question": "How many demons did Jesus cast out of the man among the tombs, calling himself 'Legion'?",
+    "options": [
+      "A single demon",
+      "Many, called Legion",
+      "Seven",
+      "Twelve"
+    ],
+    "answer": "Many, called Legion"
+  },
+  {
+    "category": "Miracles",
+    "question": "Into what animals did the demons enter after leaving the man called 'Legion'?",
+    "options": [
+      "A herd of pigs",
+      "A flock of sheep",
+      "A herd of goats",
+      "A school of fish"
+    ],
+    "answer": "A herd of pigs"
+  },
+  {
+    "category": "Miracles",
+    "question": "What miraculous catch did Peter experience after fishing all night with no success?",
+    "options": [
+      "A net-breaking catch of fish",
+      "A giant whale",
+      "A talking fish",
+      "A boat full of gold"
+    ],
+    "answer": "A net-breaking catch of fish"
+  },
+  {
+    "category": "Miracles",
+    "question": "How did Jesus provide the temple tax for Peter?",
+    "options": [
+      "A coin was found in a fish's mouth",
+      "He turned stones into coins",
+      "An angel brought money",
+      "Peter borrowed it"
+    ],
+    "answer": "A coin was found in a fish's mouth"
+  },
+  {
+    "category": "Miracles",
+    "question": "What did Elijah do to increase a widow's small supply of flour and oil?",
+    "options": [
+      "Made it last until the famine ended",
+      "Doubled it once",
+      "Turned it to gold",
+      "Multiplied it for one day only"
+    ],
+    "answer": "Made it last until the famine ended"
+  },
+  {
+    "category": "Miracles",
+    "question": "Which prophet raised the widow of Zarephath's son back to life?",
+    "options": [
+      "Elijah",
+      "Elisha",
+      "Isaiah",
+      "Samuel"
+    ],
+    "answer": "Elijah"
+  },
+  {
+    "category": "Miracles",
+    "question": "Which prophet made an axe head float on water?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Ezekiel",
+      "Isaiah"
+    ],
+    "answer": "Elisha"
+  },
+  {
+    "category": "Miracles",
+    "question": "Which prophet healed Naaman the Syrian general of leprosy by having him wash in the Jordan?",
+    "options": [
+      "Elisha",
+      "Elijah",
+      "Isaiah",
+      "Nathan"
+    ],
+    "answer": "Elisha"
+  },
+  {
+    "category": "Miracles",
+    "question": "What did Moses do to the Red Sea to let the Israelites cross on dry ground?",
+    "options": [
+      "Parted it with his staff",
+      "Froze it",
+      "Walked on it",
+      "Prayed it dry"
+    ],
+    "answer": "Parted it with his staff"
+  },
+  {
+    "category": "Miracles",
+    "question": "What happened to the Egyptian army when they pursued Israel into the parted sea?",
+    "options": [
+      "The waters closed over them",
+      "They turned back safely",
+      "They were struck blind",
+      "They drowned in a storm"
+    ],
+    "answer": "The waters closed over them"
+  },
+  {
+    "category": "Miracles",
+    "question": "What did Moses' staff do when thrown down before Pharaoh?",
+    "options": [
+      "It became a serpent",
+      "It caught fire",
+      "It turned to gold",
+      "It grew leaves"
+    ],
+    "answer": "It became a serpent"
+  },
+  {
+    "category": "Miracles",
+    "question": "What sign did God give Gideon by making dew appear only on a fleece?",
+    "options": [
+      "Confirmation of his calling",
+      "A warning of danger",
+      "A sign of victory in battle",
+      "A sign of famine"
+    ],
+    "answer": "Confirmation of his calling"
+  },
+  {
+    "category": "Miracles",
+    "question": "What miracle occurred when the Israelites carried the Ark of the Covenant into the Jordan River?",
+    "options": [
+      "The river's waters stopped and piled up",
+      "The river turned to blood",
+      "The river dried up permanently",
+      "The Ark floated away"
+    ],
+    "answer": "The river's waters stopped and piled up"
+  },
+  {
+    "category": "Miracles",
+    "question": "What happened to the walls of Jericho after Israel marched around them seven times?",
+    "options": [
+      "They collapsed",
+      "They were breached by fire",
+      "They were never taken",
+      "They turned to dust slowly"
+    ],
+    "answer": "They collapsed"
+  },
+  {
+    "category": "Miracles",
+    "question": "What did God do to the sun and moon at Joshua's request during a battle?",
+    "options": [
+      "Made them stand still",
+      "Made them go dark",
+      "Made them move faster",
+      "Split them apart"
+    ],
+    "answer": "Made them stand still"
+  },
+  {
+    "category": "Miracles",
+    "question": "What miracle did Daniel experience when thrown into a den of lions?",
+    "options": [
+      "The lions did not harm him",
+      "He tamed the lions",
+      "He escaped secretly",
+      "The lions fled the den"
+    ],
+    "answer": "The lions did not harm him"
+  },
+  {
+    "category": "Miracles",
+    "question": "What happened to Shadrach, Meshach, and Abednego when thrown into the fiery furnace?",
+    "options": [
+      "They were unharmed",
+      "They burned but survived injured",
+      "They escaped before the fire",
+      "An angel doused the flames first"
+    ],
+    "answer": "They were unharmed"
+  },
+  {
+    "category": "Miracles",
+    "question": "What miraculous sign appeared as handwriting during Belshazzar's feast?",
+    "options": [
+      "Words on the wall foretelling his kingdom's fall",
+      "A vision of angels",
+      "A voice from heaven",
+      "A falling star"
+    ],
+    "answer": "Words on the wall foretelling his kingdom's fall"
+  },
+  {
+    "category": "Miracles",
+    "question": "How was Peter freed from prison in the book of Acts?",
+    "options": [
+      "An angel released him",
+      "He escaped through a tunnel",
+      "A guard let him go",
+      "He was pardoned"
+    ],
+    "answer": "An angel released him"
+  },
+  {
+    "category": "Miracles",
+    "question": "What happened to Paul after he was bitten by a venomous snake on Malta?",
+    "options": [
+      "He suffered no harm",
+      "He was healed after prayer",
+      "He nearly died but recovered",
+      "He died instantly"
+    ],
+    "answer": "He suffered no harm"
+  },
+  {
+    "category": "Miracles",
+    "question": "What happened at Pentecost that amazed the crowd in Jerusalem?",
+    "options": [
+      "The disciples spoke in other tongues",
+      "Fire fell from the sky and burned nothing",
+      "The Temple veil tore",
+      "A great earthquake struck"
+    ],
+    "answer": "The disciples spoke in other tongues"
+  },
+  {
+    "category": "Miracles",
+    "question": "What miraculous event freed Paul and Silas from prison in Philippi?",
+    "options": [
+      "An earthquake opened the doors",
+      "An angel unlocked the gates",
+      "A guard released them out of fear",
+      "A bribe was paid"
+    ],
+    "answer": "An earthquake opened the doors"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book of the Bible is a collection of songs and prayers, many attributed to David?",
+    "options": [
+      "Psalms",
+      "Proverbs",
+      "Job",
+      "Ecclesiastes"
+    ],
+    "answer": "Psalms"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book of wisdom literature is best known for its short, practical sayings about wise living?",
+    "options": [
+      "Proverbs",
+      "Psalms",
+      "Job",
+      "Song of Songs"
+    ],
+    "answer": "Proverbs"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book explores the suffering of a righteous man and God's response from a whirlwind?",
+    "options": [
+      "Job",
+      "Psalms",
+      "Proverbs",
+      "Ecclesiastes"
+    ],
+    "answer": "Job"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book repeatedly declares 'Vanity of vanities, all is vanity'?",
+    "options": [
+      "Ecclesiastes",
+      "Job",
+      "Proverbs",
+      "Lamentations"
+    ],
+    "answer": "Ecclesiastes"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book is a poetic love song traditionally attributed to Solomon?",
+    "options": [
+      "Song of Songs",
+      "Psalms",
+      "Proverbs",
+      "Ruth"
+    ],
+    "answer": "Song of Songs"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm begins 'The Lord is my shepherd, I shall not want'?",
+    "options": [
+      "Psalm 23",
+      "Psalm 1",
+      "Psalm 100",
+      "Psalm 51"
+    ],
+    "answer": "Psalm 23"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm is David's prayer of repentance after his sin with Bathsheba?",
+    "options": [
+      "Psalm 51",
+      "Psalm 23",
+      "Psalm 91",
+      "Psalm 119"
+    ],
+    "answer": "Psalm 51"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which is the longest chapter in the Bible, an extended poem praising God's law?",
+    "options": [
+      "Psalm 119",
+      "Psalm 23",
+      "Psalm 1",
+      "Psalm 150"
+    ],
+    "answer": "Psalm 119"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "According to Proverbs, what is 'the beginning of knowledge'?",
+    "options": [
+      "The fear of the Lord",
+      "Wealth",
+      "Education",
+      "Experience"
+    ],
+    "answer": "The fear of the Lord"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Who is credited as the primary author of the book of Proverbs?",
+    "options": [
+      "Solomon",
+      "David",
+      "Moses",
+      "Ezra"
+    ],
+    "answer": "Solomon"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "How many friends came to comfort Job during his suffering?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Who was Job's youngest friend who spoke last and rebuked the others?",
+    "options": [
+      "Elihu",
+      "Eliphaz",
+      "Bildad",
+      "Zophar"
+    ],
+    "answer": "Elihu"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "How did God finally speak to Job to answer his questions about suffering?",
+    "options": [
+      "Out of a whirlwind",
+      "In a dream",
+      "Through an angel",
+      "Through silence"
+    ],
+    "answer": "Out of a whirlwind"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "According to Ecclesiastes, what is there 'a time' for, alongside a time to die?",
+    "options": [
+      "A time to be born",
+      "A time to sin",
+      "A time to forget",
+      "A time to hide"
+    ],
+    "answer": "A time to be born"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm is known as the Shepherd's Psalm?",
+    "options": [
+      "Psalm 23",
+      "Psalm 91",
+      "Psalm 100",
+      "Psalm 8"
+    ],
+    "answer": "Psalm 23"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book of wisdom contains the famous 'virtuous woman' passage praising an excellent wife?",
+    "options": [
+      "Proverbs",
+      "Psalms",
+      "Ecclesiastes",
+      "Song of Songs"
+    ],
+    "answer": "Proverbs"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "According to Proverbs, what does 'a soft answer' do to wrath?",
+    "options": [
+      "Turns it away",
+      "Increases it",
+      "Ignores it",
+      "Delays it"
+    ],
+    "answer": "Turns it away"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm begins with 'Blessed is the man who walks not in the counsel of the wicked'?",
+    "options": [
+      "Psalm 1",
+      "Psalm 23",
+      "Psalm 51",
+      "Psalm 8"
+    ],
+    "answer": "Psalm 1"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "What does Job famously declare despite his suffering, expressing hope in resurrection?",
+    "options": [
+      "'I know that my Redeemer lives'",
+      "'The Lord is my shepherd'",
+      "'Vanity of vanities'",
+      "'Let there be light'"
+    ],
+    "answer": "'I know that my Redeemer lives'"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which wisdom book warns most strongly against laziness, using the image of the ant?",
+    "options": [
+      "Proverbs",
+      "Ecclesiastes",
+      "Job",
+      "Psalms"
+    ],
+    "answer": "Proverbs"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "According to Proverbs, what is described as 'more precious than rubies'?",
+    "options": [
+      "Wisdom",
+      "Gold",
+      "Silver",
+      "Long life"
+    ],
+    "answer": "Wisdom"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm is a song of praise urging 'everything that has breath' to praise the Lord?",
+    "options": [
+      "Psalm 150",
+      "Psalm 1",
+      "Psalm 23",
+      "Psalm 91"
+    ],
+    "answer": "Psalm 150"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "What was Job's condition before his losses — was he described as righteous or wicked?",
+    "options": [
+      "Righteous and blameless",
+      "Wicked",
+      "Average",
+      "Unknown"
+    ],
+    "answer": "Righteous and blameless"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "How many children did Job have restored to him after his suffering, matching his original number?",
+    "options": [
+      "10",
+      "7",
+      "12",
+      "3"
+    ],
+    "answer": "10"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which wisdom book personifies Wisdom as a woman calling out in the streets?",
+    "options": [
+      "Proverbs",
+      "Ecclesiastes",
+      "Job",
+      "Psalms"
+    ],
+    "answer": "Proverbs"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "According to Ecclesiastes, what does the Preacher conclude is the whole duty of man?",
+    "options": [
+      "Fear God and keep His commandments",
+      "Seek pleasure",
+      "Gain wealth",
+      "Gain wisdom alone"
+    ],
+    "answer": "Fear God and keep His commandments"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm expresses trust in God as a refuge, containing the phrase 'He who dwells in the shelter of the Most High'?",
+    "options": [
+      "Psalm 91",
+      "Psalm 23",
+      "Psalm 1",
+      "Psalm 100"
+    ],
+    "answer": "Psalm 91"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book's poetic dialogue features long speeches between Job and his three friends debating suffering?",
+    "options": [
+      "Job",
+      "Ecclesiastes",
+      "Proverbs",
+      "Psalms"
+    ],
+    "answer": "Job"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "What does Proverbs say happens to those who 'trust in the Lord with all their heart'?",
+    "options": [
+      "He will make their paths straight",
+      "They will become wealthy",
+      "They will never suffer",
+      "They will live forever"
+    ],
+    "answer": "He will make their paths straight"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which title is traditionally given to the author of Ecclesiastes, meaning 'Teacher' or 'Preacher'?",
+    "options": [
+      "Qoheleth (the Preacher)",
+      "The Psalmist",
+      "The Sage",
+      "The Scribe"
+    ],
+    "answer": "Qoheleth (the Preacher)"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which book of wisdom uses vivid garden and vineyard imagery to celebrate romantic love?",
+    "options": [
+      "Song of Songs",
+      "Proverbs",
+      "Ecclesiastes",
+      "Psalms"
+    ],
+    "answer": "Song of Songs"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm is often called a 'royal psalm' celebrating the coming Messianic King, beginning 'The Lord said to my Lord'?",
+    "options": [
+      "Psalm 110",
+      "Psalm 23",
+      "Psalm 1",
+      "Psalm 8"
+    ],
+    "answer": "Psalm 110"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "According to Proverbs, what should you do with your children to train them?",
+    "options": [
+      "Train up a child in the way he should go",
+      "Let them choose their own path",
+      "Give them everything they want",
+      "Leave their training to teachers"
+    ],
+    "answer": "Train up a child in the way he should go"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Who wrote most of the New Testament epistles?",
+    "options": [
+      "Paul",
+      "Peter",
+      "John",
+      "James"
+    ],
+    "answer": "Paul"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "To which city did Paul write the letter often called the theological centerpiece of the New Testament, Romans?",
+    "options": [
+      "Rome",
+      "Corinth",
+      "Ephesus",
+      "Galatia"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which letter of Paul's famously contains the 'love chapter,' 1 Corinthians 13?",
+    "options": [
+      "1 Corinthians",
+      "Romans",
+      "Galatians",
+      "Ephesians"
+    ],
+    "answer": "1 Corinthians"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle emphasizes the armor of God, including the shield of faith and sword of the Spirit?",
+    "options": [
+      "Ephesians",
+      "Philippians",
+      "Colossians",
+      "Galatians"
+    ],
+    "answer": "Ephesians"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which letter of Paul's is known as the 'epistle of joy,' written from prison?",
+    "options": [
+      "Philippians",
+      "Ephesians",
+      "1 Thessalonians",
+      "Titus"
+    ],
+    "answer": "Philippians"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which two of Paul's letters were addressed to churches in Thessalonica?",
+    "options": [
+      "1 and 2 Thessalonians",
+      "1 and 2 Corinthians",
+      "1 and 2 Timothy",
+      "Colossians and Philemon"
+    ],
+    "answer": "1 and 2 Thessalonians"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which short personal letter did Paul write asking for a runaway slave to be welcomed back as a brother?",
+    "options": [
+      "Philemon",
+      "Titus",
+      "2 Timothy",
+      "Jude"
+    ],
+    "answer": "Philemon"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle is traditionally attributed to Jesus' brother and emphasizes faith shown through works?",
+    "options": [
+      "James",
+      "1 Peter",
+      "1 John",
+      "Jude"
+    ],
+    "answer": "James"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle was written to Jewish Christians, emphasizing Jesus as superior to angels and the old covenant?",
+    "options": [
+      "Hebrews",
+      "Romans",
+      "Galatians",
+      "1 Peter"
+    ],
+    "answer": "Hebrews"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which apostle wrote letters encouraging believers to stand firm under persecution, addressed to 'strangers scattered'?",
+    "options": [
+      "Peter",
+      "Paul",
+      "John",
+      "James"
+    ],
+    "answer": "Peter"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which apostle wrote three epistles emphasizing love and warning against false teaching about Jesus' nature?",
+    "options": [
+      "John",
+      "Peter",
+      "Paul",
+      "Jude"
+    ],
+    "answer": "John"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which brief epistle warns against false teachers 'creeping in unawares' and was written by Jesus' brother?",
+    "options": [
+      "Jude",
+      "James",
+      "2 Peter",
+      "1 John"
+    ],
+    "answer": "Jude"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which letters did Paul write to his young protégé serving as a pastor, giving instructions on church leadership?",
+    "options": [
+      "1 and 2 Timothy",
+      "1 and 2 Thessalonians",
+      "Titus and Philemon",
+      "Colossians and Ephesians"
+    ],
+    "answer": "1 and 2 Timothy"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle was written to a young church leader on the island of Crete?",
+    "options": [
+      "Titus",
+      "Timothy",
+      "Philemon",
+      "Jude"
+    ],
+    "answer": "Titus"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which book records the acts of the apostles and the spread of the early church, written by Luke?",
+    "options": [
+      "Acts",
+      "Hebrews",
+      "Revelation",
+      "Romans"
+    ],
+    "answer": "Acts"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which city hosted the church that received Paul's letter addressing division and immorality directly?",
+    "options": [
+      "Corinth",
+      "Ephesus",
+      "Galatia",
+      "Colossae"
+    ],
+    "answer": "Corinth"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle warns believers not to be led astray by legalism, insisting salvation is by faith not circumcision?",
+    "options": [
+      "Galatians",
+      "Romans",
+      "Ephesians",
+      "Colossians"
+    ],
+    "answer": "Galatians"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle emphasizes Christ's supremacy over all creation and warns against false philosophy?",
+    "options": [
+      "Colossians",
+      "Ephesians",
+      "Philippians",
+      "Hebrews"
+    ],
+    "answer": "Colossians"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Who was Paul's traveling companion and co-author named on several epistles, also his fellow missionary?",
+    "options": [
+      "Silas (Silvanus)",
+      "Barnabas",
+      "Titus",
+      "Luke"
+    ],
+    "answer": "Silas (Silvanus)"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which missionary companion of Paul later separated from him over a dispute about John Mark?",
+    "options": [
+      "Barnabas",
+      "Silas",
+      "Timothy",
+      "Titus"
+    ],
+    "answer": "Barnabas"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "On which of Paul's missionary journeys did he first travel with Barnabas?",
+    "options": [
+      "The first journey",
+      "The second journey",
+      "The third journey",
+      "His journey to Rome"
+    ],
+    "answer": "The first journey"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "At which council did the early church leaders decide Gentile converts did not need to be circumcised?",
+    "options": [
+      "The Council of Jerusalem",
+      "The Council of Antioch",
+      "The Council of Corinth",
+      "The Council of Ephesus"
+    ],
+    "answer": "The Council of Jerusalem"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Who was chosen along with Matthias to potentially replace Judas among the twelve apostles, though Matthias was picked?",
+    "options": [
+      "Joseph called Barsabbas (Justus)",
+      "Barnabas",
+      "Silas",
+      "Timothy"
+    ],
+    "answer": "Joseph called Barsabbas (Justus)"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which deacon, known for his wisdom, became the first Christian martyr?",
+    "options": [
+      "Stephen",
+      "Philip",
+      "Nicanor",
+      "Timon"
+    ],
+    "answer": "Stephen"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which early evangelist preached to the Ethiopian eunuch and baptized him?",
+    "options": [
+      "Philip",
+      "Peter",
+      "Stephen",
+      "Barnabas"
+    ],
+    "answer": "Philip"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which Roman centurion became one of the first Gentile converts, visited by Peter?",
+    "options": [
+      "Cornelius",
+      "Julius",
+      "Longinus",
+      "Claudius"
+    ],
+    "answer": "Cornelius"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which city became the base for the early church's mission to the Gentiles, where believers were first called 'Christians'?",
+    "options": [
+      "Antioch",
+      "Jerusalem",
+      "Rome",
+      "Corinth"
+    ],
+    "answer": "Antioch"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which married couple, tentmakers by trade, worked alongside Paul and taught Apollos?",
+    "options": [
+      "Priscilla and Aquila",
+      "Ananias and Sapphira",
+      "Andronicus and Junia",
+      "Philemon and Apphia"
+    ],
+    "answer": "Priscilla and Aquila"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which couple in the early church died after lying to the Holy Spirit about money from a land sale?",
+    "options": [
+      "Ananias and Sapphira",
+      "Priscilla and Aquila",
+      "Aquila and Junia",
+      "Philemon and Apphia"
+    ],
+    "answer": "Ananias and Sapphira"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which book of the Bible is written as letters to seven churches in Asia Minor before its visions?",
+    "options": [
+      "Revelation",
+      "Hebrews",
+      "Acts",
+      "1 Peter"
+    ],
+    "answer": "Revelation"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Who is traditionally credited as the author of the book of Revelation?",
+    "options": [
+      "John",
+      "Paul",
+      "Peter",
+      "James"
+    ],
+    "answer": "John"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "On which island did John receive the visions recorded in Revelation?",
+    "options": [
+      "Patmos",
+      "Malta",
+      "Crete",
+      "Cyprus"
+    ],
+    "answer": "Patmos"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle opens by identifying Jesus Christ as 'the Word' who was with God and was God?",
+    "options": [
+      "The Gospel of John",
+      "Romans",
+      "Hebrews",
+      "Revelation"
+    ],
+    "answer": "The Gospel of John"
+  },
+  {
+    "category": "General",
+    "question": "How many books are in the New Testament?",
+    "options": [
+      "27",
+      "39",
+      "66",
+      "24"
+    ],
+    "answer": "27"
+  },
+  {
+    "category": "General",
+    "question": "How many books are in the Old Testament?",
+    "options": [
+      "27",
+      "39",
+      "66",
+      "24"
+    ],
+    "answer": "39"
+  },
+  {
+    "category": "General",
+    "question": "How many total books make up the Protestant Bible?",
+    "options": [
+      "66",
+      "72",
+      "39",
+      "27"
+    ],
+    "answer": "66"
+  },
+  {
+    "category": "General",
+    "question": "What is the first book of the Bible?",
+    "options": [
+      "Genesis",
+      "Exodus",
+      "Leviticus",
+      "Numbers"
+    ],
+    "answer": "Genesis"
+  },
+  {
+    "category": "General",
+    "question": "What is the last book of the Bible?",
+    "options": [
+      "Revelation",
+      "Jude",
+      "Malachi",
+      "Acts"
+    ],
+    "answer": "Revelation"
+  },
+  {
+    "category": "General",
+    "question": "In which language was most of the Old Testament originally written?",
+    "options": [
+      "Hebrew",
+      "Greek",
+      "Aramaic",
+      "Latin"
+    ],
+    "answer": "Hebrew"
+  },
+  {
+    "category": "General",
+    "question": "In which language was most of the New Testament originally written?",
+    "options": [
+      "Greek",
+      "Hebrew",
+      "Aramaic",
+      "Latin"
+    ],
+    "answer": "Greek"
+  },
+  {
+    "category": "General",
+    "question": "What are the first five books of the Old Testament collectively called?",
+    "options": [
+      "The Pentateuch (Torah)",
+      "The Wisdom Books",
+      "The Major Prophets",
+      "The Minor Prophets"
+    ],
+    "answer": "The Pentateuch (Torah)"
+  },
+  {
+    "category": "General",
+    "question": "Which book of the Bible has no direct mention of God's name in its text?",
+    "options": [
+      "Esther",
+      "Ruth",
+      "Song of Songs",
+      "Ecclesiastes"
+    ],
+    "answer": "Esther"
+  },
+  {
+    "category": "General",
+    "question": "Which four books are known as the Gospels?",
+    "options": [
+      "Matthew, Mark, Luke, and John",
+      "Matthew, Mark, Luke, and Acts",
+      "Romans, Corinthians, Galatians, and Ephesians",
+      "Genesis, Exodus, Leviticus, and Numbers"
+    ],
+    "answer": "Matthew, Mark, Luke, and John"
+  },
+  {
+    "category": "General",
+    "question": "Which Gospel is believed to be the earliest written?",
+    "options": [
+      "Mark",
+      "Matthew",
+      "Luke",
+      "John"
+    ],
+    "answer": "Mark"
+  },
+  {
+    "category": "General",
+    "question": "Which Gospel focuses most on Jesus' Jewish identity and fulfillment of prophecy?",
+    "options": [
+      "Matthew",
+      "Mark",
+      "Luke",
+      "John"
+    ],
+    "answer": "Matthew"
+  },
+  {
+    "category": "General",
+    "question": "Which Gospel is traditionally attributed to a Gentile physician and companion of Paul?",
+    "options": [
+      "Luke",
+      "Mark",
+      "Matthew",
+      "John"
+    ],
+    "answer": "Luke"
+  },
+  {
+    "category": "General",
+    "question": "Which Gospel is notably more theological, opening with 'In the beginning was the Word'?",
+    "options": [
+      "John",
+      "Matthew",
+      "Mark",
+      "Luke"
+    ],
+    "answer": "John"
+  },
+  {
+    "category": "General",
+    "question": "How many years is traditionally said to separate the Old and New Testaments, often called the 'silent years'?",
+    "options": [
+      "About 400 years",
+      "About 40 years",
+      "About 1,000 years",
+      "About 100 years"
+    ],
+    "answer": "About 400 years"
+  },
+  {
+    "category": "General",
+    "question": "What covenant sign did God give to Abraham and his male descendants?",
+    "options": [
+      "Circumcision",
+      "Baptism",
+      "Sacrifice",
+      "The rainbow"
+    ],
+    "answer": "Circumcision"
+  },
+  {
+    "category": "General",
+    "question": "What is the Hebrew word for God's covenant name, often rendered 'LORD' in English translations?",
+    "options": [
+      "Yahweh (YHWH)",
+      "Elohim",
+      "Adonai",
+      "El Shaddai"
+    ],
+    "answer": "Yahweh (YHWH)"
+  },
+  {
+    "category": "General",
+    "question": "What does the word 'gospel' mean?",
+    "options": [
+      "Good news",
+      "Holy word",
+      "Sacred story",
+      "Great teaching"
+    ],
+    "answer": "Good news"
+  },
+  {
+    "category": "General",
+    "question": "Which mountain is traditionally associated with Moses receiving the Ten Commandments?",
+    "options": [
+      "Mount Sinai",
+      "Mount Zion",
+      "Mount Carmel",
+      "Mount Nebo"
+    ],
+    "answer": "Mount Sinai"
+  },
+  {
+    "category": "General",
+    "question": "Which city is considered the holiest city in the Bible, site of the Temple?",
+    "options": [
+      "Jerusalem",
+      "Bethlehem",
+      "Nazareth",
+      "Jericho"
+    ],
+    "answer": "Jerusalem"
+  },
+  {
+    "category": "General",
+    "question": "What is the name of the sacred chest that held the tablets of the Ten Commandments?",
+    "options": [
+      "The Ark of the Covenant",
+      "The Tabernacle",
+      "The Mercy Seat",
+      "The Holy of Holies"
+    ],
+    "answer": "The Ark of the Covenant"
+  },
+  {
+    "category": "General",
+    "question": "What is the innermost, most sacred room of the Tabernacle and Temple called?",
+    "options": [
+      "The Holy of Holies",
+      "The Outer Court",
+      "The Nave",
+      "The Vestibule"
+    ],
+    "answer": "The Holy of Holies"
+  },
+  {
+    "category": "General",
+    "question": "Which annual Jewish festival commemorates Israel's exodus from Egypt?",
+    "options": [
+      "Passover",
+      "Pentecost",
+      "Tabernacles",
+      "Purim"
+    ],
+    "answer": "Passover"
+  },
+  {
+    "category": "General",
+    "question": "Which Jewish festival celebrates the giving of the Law at Sinai and, in the New Testament, the coming of the Holy Spirit?",
+    "options": [
+      "Pentecost",
+      "Passover",
+      "Purim",
+      "Hanukkah"
+    ],
+    "answer": "Pentecost"
+  },
+  {
+    "category": "General",
+    "question": "What does the word 'Messiah' mean?",
+    "options": [
+      "Anointed one",
+      "Savior",
+      "Teacher",
+      "Prophet"
+    ],
+    "answer": "Anointed one"
+  },
+  {
+    "category": "General",
+    "question": "What is the Greek equivalent of the Hebrew word 'Messiah'?",
+    "options": [
+      "Christ",
+      "Lord",
+      "Savior",
+      "Rabbi"
+    ],
+    "answer": "Christ"
+  },
+  {
+    "category": "General",
+    "question": "Which sea did Jesus and His disciples frequently cross during His Galilean ministry?",
+    "options": [
+      "The Sea of Galilee",
+      "The Dead Sea",
+      "The Red Sea",
+      "The Mediterranean Sea"
+    ],
+    "answer": "The Sea of Galilee"
+  },
+  {
+    "category": "General",
+    "question": "What is the traditional name for Jesus' twelve closest followers?",
+    "options": [
+      "The Apostles/Disciples",
+      "The Prophets",
+      "The Elders",
+      "The Levites"
+    ],
+    "answer": "The Apostles/Disciples"
+  },
+  {
+    "category": "General",
+    "question": "Which religious group was known for strict adherence to the Law and frequently debated Jesus?",
+    "options": [
+      "The Pharisees",
+      "The Sadducees",
+      "The Essenes",
+      "The Zealots"
+    ],
+    "answer": "The Pharisees"
+  },
+  {
+    "category": "General",
+    "question": "Which religious group denied the resurrection of the dead and held mainly priestly power?",
+    "options": [
+      "The Sadducees",
+      "The Pharisees",
+      "The Essenes",
+      "The Zealots"
+    ],
+    "answer": "The Sadducees"
+  },
+  {
+    "category": "General",
+    "question": "What title is given to the ruling Jewish council in Jerusalem during Jesus' time?",
+    "options": [
+      "The Sanhedrin",
+      "The Sadducees",
+      "The Diaspora",
+      "The Synagogue"
+    ],
+    "answer": "The Sanhedrin"
+  },
+  {
+    "category": "General",
+    "question": "What does the word 'disciple' mean?",
+    "options": [
+      "A learner or follower",
+      "A teacher",
+      "A prophet",
+      "A priest"
+    ],
+    "answer": "A learner or follower"
+  },
+  {
+    "category": "General",
+    "question": "Which prayer did Jesus teach His disciples as a model for prayer?",
+    "options": [
+      "The Lord's Prayer",
+      "The Shema",
+      "The Beatitudes",
+      "The Benediction"
+    ],
+    "answer": "The Lord's Prayer"
+  },
+  {
+    "category": "General",
+    "question": "What are the opening blessings of the Sermon on the Mount commonly called?",
+    "options": [
+      "The Beatitudes",
+      "The Commandments",
+      "The Parables",
+      "The Psalms"
+    ],
+    "answer": "The Beatitudes"
+  },
+  {
+    "category": "General",
+    "question": "What is the Hebrew term for the Jewish declaration of faith, 'Hear, O Israel'?",
+    "options": [
+      "The Shema",
+      "The Shalom",
+      "The Torah",
+      "The Talmud"
+    ],
+    "answer": "The Shema"
+  },
+  {
+    "category": "General",
+    "question": "Which city was the capital of the northern kingdom of Israel for much of its history?",
+    "options": [
+      "Samaria",
+      "Jerusalem",
+      "Shechem",
+      "Bethel"
+    ],
+    "answer": "Samaria"
+  },
+  {
+    "category": "General",
+    "question": "Which city remained the capital of the southern kingdom of Judah?",
+    "options": [
+      "Jerusalem",
+      "Samaria",
+      "Hebron",
+      "Bethlehem"
+    ],
+    "answer": "Jerusalem"
+  },
+  {
+    "category": "General",
+    "question": "What does 'Immanuel,' a name given to the promised child in Isaiah, mean?",
+    "options": [
+      "God with us",
+      "Prince of Peace",
+      "Wonderful Counselor",
+      "Son of David"
+    ],
+    "answer": "God with us"
+  },
+  {
+    "category": "General",
+    "question": "Which Roman empire ruled over Judea during the time of Jesus and the early church?",
+    "options": [
+      "The Roman Empire",
+      "The Greek Empire",
+      "The Persian Empire",
+      "The Babylonian Empire"
+    ],
+    "answer": "The Roman Empire"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did God call the dry land after separating it from the waters?",
+    "options": [
+      "Earth",
+      "Heaven",
+      "Eden",
+      "Ground"
+    ],
+    "answer": "Earth"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many years did Jacob work for Laban to marry Rachel and Leah combined?",
+    "options": [
+      "7",
+      "14",
+      "20",
+      "10"
+    ],
+    "answer": "14"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Which of Jacob's sons was given a special coat by his father?",
+    "options": [
+      "Joseph",
+      "Reuben",
+      "Judah",
+      "Benjamin"
+    ],
+    "answer": "Joseph"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Benjamin's mother, who died giving birth to him?",
+    "options": [
+      "Rachel",
+      "Leah",
+      "Bilhah",
+      "Zilpah"
+    ],
+    "answer": "Rachel"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What did the Israelites complain about lacking soon after leaving Egypt?",
+    "options": [
+      "Food and water",
+      "Gold",
+      "Shelter",
+      "Weapons"
+    ],
+    "answer": "Food and water"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Who was Aaron in relation to Moses?",
+    "options": [
+      "His brother",
+      "His father",
+      "His son",
+      "His cousin"
+    ],
+    "answer": "His brother"
+  },
+  {
+    "category": "Old Testament",
+    "question": "What was the portable tent of worship used by Israel in the wilderness called?",
+    "options": [
+      "The Tabernacle",
+      "The Temple",
+      "The Synagogue",
+      "The Sanctuary"
+    ],
+    "answer": "The Tabernacle"
+  },
+  {
+    "category": "Old Testament",
+    "question": "Which two men were sent to spy on Canaan and returned with a good report of faith?",
+    "options": [
+      "Joshua and Caleb",
+      "Aaron and Hur",
+      "Nadab and Abihu",
+      "Eleazar and Ithamar"
+    ],
+    "answer": "Joshua and Caleb"
+  },
+  {
+    "category": "Old Testament",
+    "question": "How many years did the Israelites wander in the wilderness before entering Canaan?",
+    "options": [
+      "20",
+      "40",
+      "70",
+      "100"
+    ],
+    "answer": "40"
+  },
+  {
+    "category": "New Testament",
+    "question": "What did Jesus say to the storm to calm it?",
+    "options": [
+      "'Peace, be still'",
+      "'Be gone'",
+      "'Depart from me'",
+      "'Have faith'"
+    ],
+    "answer": "'Peace, be still'"
+  },
+  {
+    "category": "New Testament",
+    "question": "Which feast was Jesus attending in Jerusalem when He was crucified?",
+    "options": [
+      "Passover",
+      "Pentecost",
+      "Tabernacles",
+      "Purim"
+    ],
+    "answer": "Passover"
+  },
+  {
+    "category": "New Testament",
+    "question": "What did the Roman soldiers cast for Jesus' garment at the crucifixion?",
+    "options": [
+      "Lots",
+      "Coins",
+      "Stones",
+      "Straws"
+    ],
+    "answer": "Lots"
+  },
+  {
+    "category": "New Testament",
+    "question": "What tore in two at the moment of Jesus' death?",
+    "options": [
+      "The Temple veil",
+      "The sky",
+      "The ground",
+      "The city gates"
+    ],
+    "answer": "The Temple veil"
+  },
+  {
+    "category": "New Testament",
+    "question": "Who asked Pilate for Jesus' body after the crucifixion?",
+    "options": [
+      "Joseph of Arimathea",
+      "Nicodemus",
+      "Simon Peter",
+      "Lazarus"
+    ],
+    "answer": "Joseph of Arimathea"
+  },
+  {
+    "category": "New Testament",
+    "question": "What did the angel say to the women who came to Jesus' tomb?",
+    "options": [
+      "He is not here; He has risen",
+      "Do not weep",
+      "Go and tell no one",
+      "Return to Galilee only"
+    ],
+    "answer": "He is not here; He has risen"
+  },
+  {
+    "category": "New Testament",
+    "question": "What did Jesus tell His disciples to do for all nations just before ascending, known as the Great Commission?",
+    "options": [
+      "Make disciples and baptize them",
+      "Build temples",
+      "Return to Jerusalem",
+      "Wait in silence"
+    ],
+    "answer": "Make disciples and baptize them"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king of Israel reigned only seven days before taking his own life?",
+    "options": [
+      "Zimri",
+      "Elah",
+      "Nadab",
+      "Baasha"
+    ],
+    "answer": "Zimri"
+  },
+  {
+    "category": "Kings & Kingdoms",
+    "question": "Which king built Samaria as the new capital of the northern kingdom?",
+    "options": [
+      "Omri",
+      "Ahab",
+      "Jeroboam",
+      "Jehu"
+    ],
+    "answer": "Omri"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "According to Proverbs, what does 'pride' go before?",
+    "options": [
+      "A fall",
+      "Wisdom",
+      "Wealth",
+      "Honor"
+    ],
+    "answer": "A fall"
+  },
+  {
+    "category": "Wisdom & Poetry",
+    "question": "Which Psalm asks God to 'create in me a clean heart'?",
+    "options": [
+      "Psalm 51",
+      "Psalm 23",
+      "Psalm 1",
+      "Psalm 100"
+    ],
+    "answer": "Psalm 51"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle contains the 'Hall of Faith' listing Old Testament heroes of faith in chapter 11?",
+    "options": [
+      "Hebrews",
+      "Romans",
+      "James",
+      "1 Peter"
+    ],
+    "answer": "Hebrews"
+  },
+  {
+    "category": "Epistles & Early Church",
+    "question": "Which epistle warns that 'faith without works is dead'?",
+    "options": [
+      "James",
+      "Romans",
+      "Galatians",
+      "Hebrews"
+    ],
+    "answer": "James"
+  },
+  {
+    "category": "General",
+    "question": "What does the Hebrew word 'shalom' mean?",
+    "options": [
+      "Peace",
+      "War",
+      "Love",
+      "Justice"
+    ],
+    "answer": "Peace"
+  },
+  {
+    "category": "General",
+    "question": "Which of the Ten Commandments concerns keeping a day of rest holy?",
+    "options": [
+      "The Sabbath commandment",
+      "The commandment against idols",
+      "The commandment against theft",
+      "The commandment to honor parents"
+    ],
+    "answer": "The Sabbath commandment"
+  },
+  {
+    "category": "General",
+    "question": "What is the term for the period of Israel's captivity in Babylon?",
+    "options": [
+      "The Babylonian Exile",
+      "The Diaspora",
+      "The Dispersion",
+      "The Captivity of Egypt"
+    ],
+    "answer": "The Babylonian Exile"
+  },
+  {
+    "category": "Miracles",
+    "question": "What happened to Zechariah, father of John the Baptist, when he doubted the angel's message?",
+    "options": [
+      "He was struck mute until the birth",
+      "He was struck blind",
+      "He fell ill",
+      "He fainted"
+    ],
+    "answer": "He was struck mute until the birth"
+  },
+  {
+    "category": "Miracles",
+    "question": "How did the angel announce Jesus' birth to Mary?",
+    "options": [
+      "Through the angel Gabriel",
+      "Through a dream",
+      "Through a star",
+      "Through a prophet"
+    ],
+    "answer": "Through the angel Gabriel"
+  },
+  {
+    "category": "Parables",
+    "question": "In the Parable of the Good Samaritan, what did the Samaritan use to tend the injured man's wounds?",
+    "options": [
+      "Oil and wine",
+      "Water and salt",
+      "Herbs and honey",
+      "Milk and bread"
+    ],
+    "answer": "Oil and wine"
+  },
+  {
+    "category": "Women of the Bible",
+    "question": "Which woman was the mother of Samuel, who dedicated him to serve in the Tabernacle?",
+    "options": [
+      "Hannah",
+      "Sarah",
+      "Rebekah",
+      "Elizabeth"
+    ],
+    "answer": "Hannah"
+  }
 ]
