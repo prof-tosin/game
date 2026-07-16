@@ -1,0 +1,191 @@
+:root{
+  --bg: #12141c;
+  --surface: #1b1e29;
+  --surface-raised: #232739;
+  --felt: #1f5c4a;
+  --gold: #e8a33d;
+  --card-red: #c1443a;
+  --text: #f2efe9;
+  --text-muted: #8b8fa3;
+  --radius: 18px;
+
+  --font-display: Georgia, 'Iowan Old Style', 'Palatino Linotype', serif;
+  --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+}
+
+*{ box-sizing: border-box; }
+
+html, body{
+  margin: 0;
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+}
+
+body{
+  background-image:
+    radial-gradient(circle at 20% 0%, rgba(232,163,61,0.08), transparent 55%),
+    radial-gradient(circle at 80% 100%, rgba(31,92,74,0.25), transparent 60%);
+}
+
+.table{
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding: env(safe-area-inset-top) 20px env(safe-area-inset-bottom);
+}
+
+.table-header{
+  padding-top: 32px;
+  text-align: center;
+}
+
+.brand{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.brand-mark{
+  color: var(--card-red);
+  font-size: 1.4rem;
+  transform: translateY(-2px);
+}
+
+.table-header h1{
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 2.1rem;
+  letter-spacing: 0.02em;
+  margin: 0;
+}
+
+.tagline{
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  margin: 8px 0 4px;
+}
+
+.status{
+  font-size: 0.78rem;
+  color: var(--gold);
+  min-height: 1.2em;
+  margin: 0;
+}
+
+.status.offline::before{ content: "● "; }
+.status.online::before{ content: "● "; color: var(--felt); }
+
+/* --- The Hand: fanned playing cards as game picker --- */
+.hand{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  min-height: 380px;
+  padding: 40px 0 60px;
+}
+
+.game-card{
+  position: absolute;
+  width: 148px;
+  height: 210px;
+  background: linear-gradient(160deg, var(--surface-raised), var(--surface));
+  border-radius: var(--radius);
+  border: 1px solid rgba(242,239,233,0.08);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.45);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: transform 0.35s cubic-bezier(.22,1,.36,1), box-shadow 0.35s ease;
+  transform-origin: bottom center;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.game-card:focus-visible{
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+.game-card .suit{
+  font-size: 1.6rem;
+  line-height: 1;
+}
+.game-card .suit.red{ color: var(--card-red); }
+.game-card .suit.gold{ color: var(--gold); }
+
+.game-card .name{
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  line-height: 1.2;
+}
+
+.game-card .blurb{
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-top: 4px;
+}
+
+.game-card .corner{
+  position: absolute;
+  top: 12px;
+  right: 14px;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+.hand:not(.dealt) .game-card{
+  transform: translateY(400px) rotate(0deg);
+  opacity: 0;
+}
+
+/* Fan positions set inline per-card via --rot and --shift in app.js */
+.hand.dealt .game-card{
+  transform: translateX(var(--shift)) rotate(var(--rot));
+  opacity: 1;
+}
+
+.hand.dealt .game-card:hover,
+.hand.dealt .game-card:active{
+  transform: translateX(var(--shift)) rotate(var(--rot)) translateY(-14px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.55);
+  z-index: 10;
+}
+
+@media (prefers-reduced-motion: reduce){
+  .game-card{ transition: none; }
+  .hand:not(.dealt) .game-card{ transform: translateX(var(--shift)) rotate(var(--rot)); opacity: 1; }
+}
+
+.table-footer{
+  text-align: center;
+  padding-bottom: 24px;
+}
+
+.install-btn{
+  background: var(--gold);
+  color: #1b1e29;
+  border: none;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 12px 22px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+/* Narrow phones: stack instead of fan */
+@media (max-width: 380px), (max-height: 640px){
+  .hand{ flex-wrap: wrap; gap: 14px; position: static; padding: 20px 0; }
+  .game-card{ position: static; transform: none !important; }
+  .hand:not(.dealt) .game-card{ opacity: 1; }
+}
