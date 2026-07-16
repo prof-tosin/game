@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#1c1a2e">
+<title>Bible Trivia — The Table</title>
+<link rel="manifest" href="../../manifest.json">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="scroll">
+
+  <header class="game-header">
+    <a href="../../index.html" class="back">← Table</a>
+    <h1>Bible Trivia</h1>
+    <span class="score" id="scoreDisplay"></span>
+  </header>
+
+  <!-- Start screen: category choice -->
+  <section id="startScreen" class="panel">
+    <p class="verse-mark">✦</p>
+    <h2>Choose a category</h2>
+    <div class="category-list" id="categoryList"></div>
+  </section>
+
+  <!-- Quiz screen -->
+  <section id="quizScreen" class="panel" hidden>
+    <p class="progress" id="progress"></p>
+    <h2 class="question" id="questionText"></h2>
+    <div class="options" id="optionsList"></div>
+    <button class="next-btn" id="nextBtn" hidden>Next question</button>
+  </section>
+
+  <!-- Result screen -->
+  <section id="resultScreen" class="panel" hidden>
+    <p class="verse-mark">✦</p>
+    <h2 id="resultHeadline"></h2>
+    <p id="resultDetail"></p>
+    <button class="next-btn" id="restartBtn">Choose another category</button>
+  </section>
+
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>
